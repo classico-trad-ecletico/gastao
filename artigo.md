@@ -70,28 +70,33 @@ materiais e afetivas vinculadas às ruínas da catedral anterior.
 Este artigo reconstitui a encomenda e o desenvolvimento do projeto de
 Gastão Bahiana a partir de 1929, a sua implementação eivada de
 retrabalhos e interrupções, até a suspensão definitiva das obras em 1935.
-
 Ao longo desse processo, a importância financeira e afetiva das
 fundações preexistentes tornou-se um fator determinante para a modulação
 da estética Beaux-Arts defendida pelo arquiteto às proporções e
-dimensões de uma planta de origem colonical. Os discursos registrados em
+dimensões de uma planta de origem colonial. Os discursos registrados em
 correspondências e atas evidenciam as diferentes atitudes para com o
 patrimônio cultural, assim como o modo pelo qual a comunidade vilaboense
 oscilou entre a ânsia pelo prestígio de um arquiteto nacionalmente
 reconhecido e o apego à memória da antiga catedral.
 
+Este texto apresenta, destarte, a situação da catedral parcialmente
+arruinada no seu sítio e na identidade cultural dos círculos sociais
+mais próximos à cúpula diocesana.
+Em seguida, situa o arquiteto Gastão Bahiana e sua produção em
+arquitetura religiosa como indicadores das aspirações artísticas e
+sociais da elite vilaboense.
+Por fim, detalha o processo de definição e construção da nova catedral,
+no trabalhoso diálogo entre as preexistências materiais e afetivas da
+antiga igreja e os envios do arquiteto, cujo conhecimento do sítio
+físico era incompleto.
+
 O presente artigo deriva de uma pesquisa de doutorado que investigou
-três das principais igrejas existentes na cidade de Goiás, considerada
-Patrimônio da Humanidade em 2001. Trata-se da maior delas, a Catedral de
-Santana, cuja história se mescla com a própria trajetória da antiga
-capital goiana, por essa razão atraindo grande interesse. O período
+três das principais igrejas existentes na cidade de Goiás, inscrita como
+Patrimônio da Humanidade em 2001. O período
 analisado incorporada os últimos anos da cidade como sede administrativa
-estadual, fato que se reflete na contratação de Gastão Bahiana como
-projetista da edificação que substituiria o antigo edifício remanescente
-do período colonial em ruinas há quase 50 anos. A documentação histórica
-obtida viabilizou um registro histórico aprofundado de todo o contexto e
-processo de projetação da edificação, que não chegou a ser concluída
-como previsto inicialmente. Destaca-se o papel fundamental das
+estadual. A documentação histórica
+obtida viabilizou um registro histórico de todo o contexto e
+processo de projetação da edificação. Destaca-se o papel fundamental das
 detalhadas cartas elaboradas pelo projetista, que foram os principais
 instrumentos de informação complementar aos desenhos técnicos
 elaborados.
