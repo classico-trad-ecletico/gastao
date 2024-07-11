@@ -47,13 +47,40 @@ still quite geographically isolated in that period.
 
 **Keywords:** Gastão Bahiana; sacred architecture; Goiás (city).
 
-# Introdução
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 > *A pedra é por excelência o material da arquitetura*.
 >
 > Gastão Bahiana (1926, p.168 *apud* FREITAS, 2011, p. 118).
 
-O presente artigo se deriva de uma pesquisa de doutorado que investigou
+# Introdução #
+
+A catedral de Santana, na cidade de Goiás, é um monumento resultante de
+quatro campanhas construtivas, todas incompletas, intercaladas por
+hiatos temporais e desabamentos. A terceira dessas campanhas, baseada no
+projeto e nas orientações enviadas por correspondência pelo arquiteto
+Gastão Bahiana entre 1929 e 1934, determinou o essencial do atual
+aspecto exterior da igreja e grande parte da sua volumetria interior.
+As vicissitudes de tal projeto desenvolvido a distância decorreram tanto
+de mal-entendidos e interesses divergentes na comunicação entre as
+partes --- o arquiteto, o bispo e as comissões que supervisionavam a
+obra e a diocese --- quanto das dificuldades inerentes às preexistências
+materiais e afetivas vinculadas às ruínas da catedral anterior.
+
+Este artigo reconstitui a encomenda e o desenvolvimento do projeto de
+Gastão Bahiana a partir de 1929, a sua implementação eivada de
+retrabalhos e interrupções, até a suspensão definitiva das obras em 1935.
+
+Ao longo desse processo, a importância financeira e afetiva das
+fundações preexistentes tornou-se um fator determinante para a modulação
+da estética Beaux-Arts defendida pelo arquiteto às proporções e
+dimensões de uma planta de origem colonical. Os discursos registrados em
+correspondências e atas evidenciam as diferentes atitudes para com o
+patrimônio cultural, assim como o modo pelo qual a comunidade vilaboense
+oscilou entre a ânsia pelo prestígio de um arquiteto nacionalmente
+reconhecido e o apego à memória da antiga catedral.
+
+O presente artigo deriva de uma pesquisa de doutorado que investigou
 três das principais igrejas existentes na cidade de Goiás, considerada
 Patrimônio da Humanidade em 2001. Trata-se da maior delas, a Catedral de
 Santana, cuja história se mescla com a própria trajetória da antiga
@@ -87,7 +114,7 @@ trabalhar na prefeitura do Rio de Janeiro-RJ em 1894, transferindo-se
 para a Companhia de Navegação Costeira e para o Mosteiro de São Bento
 algum tempo depois.
 
-<Figura 1> <Figura 2>
+<Figuras>
 
 Já em 1905, é admitido como professor de Geometria Descritiva e
 Perspectiva na Escola Nacional de Belas Artes (ENBA) através de um
@@ -128,7 +155,7 @@ Niterói-RJ de 1944; e a outras obras sem identificação que chegam até
 1950, todas trazendo em comum seus reconhecidos traços puristas,
 historicistas e classicizantes[^4].
 
-<Figura 3> <Figura 4>
+<Figuras>
 
 # Da catedral de Campos à de Goiás #
 
@@ -160,7 +187,7 @@ experiência anterior do projetista com casos semelhantes ao da catedral
 goiana. Suas obras foram iniciadas também em 1929, sendo concluídas em
 maio de 1935, após paralisações provocadas pela Revolução de 1930.
 
-<Figura 5> <Figura 6>
+<Figuras>
 
 Esse breve panorama objetiva contribuir para a compreensão do contexto
 profissional do arquiteto e das escolhas projetuais que adotava,
