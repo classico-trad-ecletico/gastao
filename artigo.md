@@ -68,7 +68,7 @@ obra e a diocese --- quanto das dificuldades inerentes às preexistências
 materiais e afetivas vinculadas às ruínas da catedral anterior.
 
 Este artigo reconstitui a encomenda e o desenvolvimento do projeto de
-Gastão Bahiana a partir de 1929, a sua implementação eivada de
+Bahiana a partir de 1929, a sua implementação eivada de
 retrabalhos e interrupções, até a suspensão definitiva das obras em 1935.
 Ao longo desse processo, a importância financeira e afetiva das
 fundações preexistentes tornou-se um fator determinante para a modulação
@@ -100,97 +100,41 @@ processo de projetação da edificação. Destaca-se o papel fundamental das
 detalhadas cartas elaboradas pelo projetista, que foram os principais
 instrumentos de informação complementar aos desenhos técnicos
 elaborados.
-
-# Biografia #
-
-Inicia-se, então, com um breve relato biográfico e da produção
-arquitetônica do autor, para permitir uma melhor compreensão sobre o
-período e cenário de elaboração do projeto. Gastão Renato da Cunha
-Bahiana (1874-1959) foi um engenheiro-arquiteto nascido em Teresópolis -
-RJ, filho do também engenheiro Antônio da Cunha Bahiana; formou-se em
-1893, aos 19 anos de idade, na *École des Hautes Études Industrielles de
-Lille* na França, assim como o pai. Foi considerado um "prodígio" por
-esse feito, tornando-se posteriormente conhecido como um "dos
-precursores do ensino de arquitetura e da profissão de arquiteto no
-Brasil" (*O Globo*, 27.jan.1992), destacando-se também por fundar o
-Instituto dos Arquitetos do Brasil (IAB) em 1921, sendo eleito seu
-primeiro presidente. Após graduar-se e retornar ao Brasil, começa a
-trabalhar na prefeitura do Rio de Janeiro-RJ em 1894, transferindo-se
-para a Companhia de Navegação Costeira e para o Mosteiro de São Bento
-algum tempo depois.
-
-<Figuras>
-
-Já em 1905, é admitido como professor de Geometria Descritiva e
-Perspectiva na Escola Nacional de Belas Artes (ENBA) através de um
-concurso, posto para o qual já havia concorrido ainda em 1897 e do qual
-se orgulhava muito, já que lhe proporcionava contato com vários
-intelectuais, artistas e políticos daquele início de século. Bahiana
-chegou a trabalhar também no renomado escritório de Heitor de Mello
-entre 1908 e 1913, quando passa a atuar sozinho, desenvolvendo uma
-profícua e diversificada carreira no Rio de Janeiro até o fim da vida.
-Era considerado um "purista, avesso ao estilo neocolonial ou
-modernismo", sendo muito lembrado pela contenda ocorrida com os alunos
-da ENBA durante a gestão de Lucio Costa como diretor da instituição em
-1931[^2]. Foi, ainda, redator da revista *Arquitetura no Brasil*,
-publicada na década de 1920, destacando-se por ser a primeira do gênero
-no Brasil, que incentivava a "remodelação" das cidades brasileiras e o
-desenvolvimento agroindustrial e da viação no país.
-
-Parte do portifólio do arquiteto foi digitalizado e encontra-se
-disponível no acervo do Núcleo de Pesquisa e Documentação da Faculdade
+O portfólio do arquiteto foi consultado em formato digital junto
+ao acervo do Núcleo de Pesquisa e Documentação da Faculdade
 de Arquitetura e Urbanismo da Universidade Federal do Rio de Janeiro
-(NPD - UFRJ)[^3], que ainda está em construção, porém contempla boa
-parte de sua obra, inclusive seu trabalho de graduação de 1893 (*Project
-de Chaudiere*). Entre os vários projetos que desenvolveu, destacam-se as
-diversas igrejas espalhadas por todo o país, a começar pela Matriz de
-Paquetá, feita nos primórdios de sua carreira, ainda em 1899, quando
-substitui seu irmão Henrique Bahiana, também professor da ENBA, falecido
-no ano anterior, como informa a *Revista da Semana*, 16.set.1900.
-Ressalta-se também os vários estudos e projetos relativos: à Igreja
+(NPD--UFRJ)[^3].
+
+# Arquitetura religiosa de Gastão Bahiana #
+
+O arquiteto Gastão Bahiana (1874--1959) produziu, ao longo de sua
+carreira, vários projetos de igrejas, construídos ou não.
+Sua primeira igreja foi a matriz neogótica de Paquetá, concluída em 1899
+[@nova:1900]. Seguiram-se vários estudos e projetos relativos à igreja
 Nossa Senhora da Paz em Ipanema, inaugurada em 1921; às matrizes
-cariocas de Santa Teresa (1916), feita em concreto armado (contradizendo
-a epígrafe), e de Nossa Senhora de Copacabana (1908), que foi demolida
-após a morte do arquiteto; à Igreja para a Cidade de Corumbá de 1927;
+cariocas de Santa Teresa (1916), feita em concreto armado, e de Nossa
+Senhora de Copacabana (1908), já demolida;
+à Igreja para a Cidade de Corumbá de 1927;
 aos altares de uma capela-mor e um transepto não identificados de 1932;
 à "Igreja para a Cidade de Manáos" de 1934; ao "Projeto para a Igreja de
-Sant\'Anna" também no Rio de Janeiro de 1939; à "Cathedral de
+Sant'Anna" também no Rio de Janeiro de 1939; à "Cathedral de
 Porto-Velho" de 1941; a uma fachada de uma igreja, possivelmente, em
-Niterói-RJ de 1944; e a outras obras sem identificação que chegam até
-1950, todas trazendo em comum seus reconhecidos traços puristas,
-historicistas e classicizantes[^4].
+Niterói de 1944; e a outras obras sem identificação que chegam até
+1950, todas trazendo em comum seus reconhecidos traços de simplicidade
+clássica com cariz Beaux-Arts[^4].
 
 <Figuras>
 
-# Da catedral de Campos à de Goiás #
-
-Entretanto, é a Catedral de Campos dos Goytacazes que mais interessa à
-presente pesquisa, por apresentar uma expressiva semelhança com a
-primeira versão da Catedral de Santana proposta pelo arquiteto, sendo
-inclusive utilizada a mesma perspectiva para a divulgação de ambas as
-obras, como pode ser visto nas imagens abaixo. A parca documentação
-encontrada indica que ambos os projetos podem ter sido desenvolvidos
-concomitantemente, como demonstram os desenhos técnicos referentes à
-obra de Campos, elaborados entre 1928 e 1930, e sobre a matriz de Goiás,
-constando o ano de 1929.
-
-Uma edição especial do carioca *O Jornal* (1.mai.1935) noticia a
-inauguração da Catedral Basílica Menor do Santíssimo Salvador de Campos
-dos Goytacazes, informando que a ideia de sua construção começa com a
-chegada do primeiro bispo à cidade em 1927. Ele logo entra em contato
-com Bahiana, tendo como referências as igrejas projetadas pelo arquiteto
-no Rio de Janeiro, solicitando-lhe os primeiros estudos para a futura
-catedral da cidade. Portanto, é provável que esse projeto, de fato,
-tenha antecedido ao de Goiás, considerando-se que existem desenhos de
-1928 relativos a ele. Decide-se, então, pela demolição quase
-integralmente da antiga matriz do período colonial, permanecendo apenas
+Um projeto bastante significativo para este estudo é o da catedral de
+Campos dos Goytacazes. Apenas instalado o seu primeiro bispo em 1927,
+este encomendou a Bahiana estudos para a construção da igreja
+[@santos:1935monumento], os quais tiveram início no ano seguinte.
+Como a antiga igreja matriz colonial ainda estivesse de pé, o novo
+projeto implicou a demolição da estrutura, conservando-se apenas
 "os alicerces e as velhas torres até á altura de cerca de vinte metros,
 afim de se perpetuar a tradição do vetusto templo que ocupava,
-exactamente o mesmo reconto do atual" (idem). A citação é válida para
-demostrar os vários paralelos entre ambos os casos e para reforçar essa
-experiência anterior do projetista com casos semelhantes ao da catedral
-goiana. Suas obras foram iniciadas também em 1929, sendo concluídas em
-maio de 1935, após paralisações provocadas pela Revolução de 1930.
+exactamente o mesmo reconto do atual" [@santos:1935monumento, 3].
+A construção se iniciou em 1929 e a catedral foi inaugurada em 1935.
 
 <Figuras>
 
@@ -1070,12 +1014,6 @@ Salesianas, 1948.
 [^1]: A elaboração do presente artigo foi financiada com recursos do
     programa PROAP da CAPES.
 
-[^2]: Os estudantes entraram em greve solicitando a permanência de Costa
-    no cargo e o afastamento de Bahiana, como relatam com mais detalhes
-    autores como a professora Gaia Piccarolo em seu livro *Architecture
-    as Civil Commitment: Lucio Costa\'s Modernist Project for Brazil*
-    (2016), entre outros.
-
 [^3]: Disponível em:
     <https://npd.fau.ufrj.br/index.php?cPath=100_10000>. Acesso em
     23.mai.2023, 17:35.
@@ -1084,7 +1022,7 @@ Salesianas, 1948.
     que, "de certo, há razões para a longevidade dos ideais do
     classicismo na prática dos arquitetos na passagem do século 19 para
     o 20. Uma delas foi a vigência de uma relação íntima entre o
-    conceito de arquitetura e o uso da padra -- '*por excelência o
+    conceito de arquitetura e o uso da padra --- '*por excelência o
     material nobre'*. Romper com tal noção foi um processo complicado,
     gradual e diverso (BAHIANA, 1926, 168; COHEN, 2000, XI). Talvez por
     esta razão, a iniciativa pela nova concepção formal e espacial
