@@ -105,6 +105,62 @@ ao acervo do Núcleo de Pesquisa e Documentação da Faculdade
 de Arquitetura e Urbanismo da Universidade Federal do Rio de Janeiro
 (NPD--UFRJ)[^3].
 
+# A nova catedral de Santana na cidade de Goiás #
+
+A antiga matriz de Santana em taipa de pilão fora erguida a partir de
+1743, substituindo, como era de praxe nas vilas de mineração, uma antiga
+capela rústica. No famoso *Prospecto de Vila Boa* de 1751
+([@fig:prospecto]), a volumetria externa da igreja já aparecia
+consolidada e dotada das características das grandes igrejas
+luso-brasileiras do barroco tardio: frontaria com aberturas em V
+coroadas com frontão, duas torres, galeria lateral, cobertura da
+capela-mor rebaixada com respeito à da nave principal, e consistório
+ainda mais baixo.
+
+![*Prospecto de Villa Boa tomada da parte do Norte para o Sul no anno de 1751*, com destaque para as fachadas frontal e lateral direita da Catedral de Santana no detalhe abaixo. Acervo da Casa da Ínsua](){#fig:prospecto}
+
+Entretanto, a igreja estava marcada por defeitos construtivos que já se
+observavam em 1755, resultando num primeiro desabamento da cobertura em
+1758
+
+A intenção de reconstruir a catedral era desde então um anseio da
+comunidade local, mas os esforços efetivos para tanto só se
+intensificaram a partir da segunda década do século XX.
+A primeira ata da Comissão Central das Obras da Cathedral de Sant'Ana,
+em 1.º de abril de 1929, indicava um saldo positivo de 6:682\$549 réis
+resultante das arrecadações feitas em prol da reconstrução do edifício
+entre 1913 e 1925.
+
+Tratava-se de um esforço socializado e até institucionalizado:
+a Comissão mencionava, na ata da sua segunda reunião em 3 de abril,
+o auxílio oferecido pelo governo estadual, que fora apontado por
+D. Emmanuel como propulsor da retomada dos trabalhos, destacando ainda a
+oferta de materiais de construção pelo senador Joaquim de Bastos.
+Além disso, a mesma ata instava "todos os engenheiros da Capital [a]
+colaborarem para melhor inspecção dos trabalhos".
+Para além da arrecadação principal e da atuação dos engenheiros
+dentro e fora da Comissão, a ata da terceira reunião a 6 de abril
+informava o chamado de contribuições em materiais de construção e em
+mão de obra de operários,
+além de uma nova campanha de arrecadação por parte da comissão feminina.
+Por fim, a 13 de abril, a Comissão notava a divulgação na imprensa de
+pedidos de abertura de subscrições para coleta de donativos nos jornais.
+
+O avanço na coleta de fundos, materiais e serviços chegara em 1929,
+portanto, num ponto em que se fazia necessária a definição do projeto
+arquitetônico da nova catedral.
+Mais do que isso, porém, a definição do nome do arquiteto havia de
+fazer parte do processo de angariar recursos, entusiasmo e distinção
+para a obra.
+O convite a Gastão Bahiana para desenvolver o projeto da nova catedral
+de Santana certamente levou em conta o prestígio que o nome do arquiteto
+traria para a diocese de Goiás. Vê-se isso pela insistência do bispo,
+D. Emmanuel Gomes de Oliveira, de destacar o nome de Gastão Bahiana na
+divulgação da obra. Isso pode ser comprovado pela reprodução
+dessa informação na maior parte da bibliografia disponível sobre o
+período, a começar pelo Cônego Trindade e Silva [@silva:1948lugares].
+De fato, a reputação de Bahiana não era sem motivo.
+
 # Arquitetura religiosa de Gastão Bahiana #
 
 O arquiteto Gastão Bahiana (1874--1959) produziu, ao longo de sua
@@ -155,55 +211,7 @@ com fortes elementos classicizantes, como as colunatas e os frontões,
 que coabitam com cúpulas e janelas renascentistas, além das rosáceas
 simplificadas.
 
-# A nova catedral de Santana na cidade de Goiás #
-
-A antiga matriz de Santana em taipa de pilão fora erguida a partir de
-1743, substituindo, como era de praxe nas vilas de mineração, uma antiga
-capela rústica. No famoso *Prospecto de Vila Boa* de 1751
-([@fig:prospecto]), a volumetria externa da igreja já aparecia
-consolidada e dotada das características das grandes igrejas
-luso-brasileiras do barroco tardio: frontaria com aberturas em V
-coroadas com frontão, duas torres, galeria lateral, cobertura da
-capela-mor rebaixada com respeito à da nave principal, e consistório
-ainda mais baixo.
-
-![*Prospecto de Villa Boa tomada da parte do Norte para o Sul no anno de 1751*, com destaque para as fachadas frontal e lateral direita da Catedral de Santana no detalhe abaixo.
-Acervo da Casa da Ínsua](){#fig:prospecto}
-
-Entretanto, a igreja estava marcada por defeitos construtivos que já se
-observavam em 1755, resultando num primeiro desabamento da cobertura em
-1758
-
-A arrecadação de fundos para a reconstrução da catedral vinha de longe e
-continuava enquanto se iniciava o projeto de Bahiana.
-
-O convite a Gastão Bahiana para desenvolver o projeto da nova catedral
-de Santana certamente levou em conta o prestígio que o nome do arquiteto
-traria para a diocese de Goiás. Vê-se isso pela insistência do bispo
-D. Emmanuel Gomes de Oliveira, de destacar o nome de Gastão Bahiana na
-divulgação da obra. Isso pode ser comprovado pela reprodução
-dessa informação na maior parte da bibliografia disponível sobre o
-período, a começar pelo Cônego Trindade e Silva [@silva:1948lugares].
-
-A primeira ata da *Comissão Central das Obras da Cathedral de Sant'Ana*
-(1º.abr.1929) informa que havia um saldo positivo de 6:682\$549 réis
-resultante das arrecadações feitas em prol da reconstrução do edifício
-entre 1913 e 1925, o que indicaria que as campanhas com essa finalidade
-permaneceram após a morte de D. Prudêncio em 1921. O grupo designado
-para a direção das obras era composto por Francisco Ferreira, Joaquim de
-Bastos e Maximiniano Mendes, "devendo todos os engenheiros da Capital
-colaborarem para melhor inspecção dos trabalhos", como registra a ata da
-segunda reunião da mesma comissão (3.abr.1929). Este documento ainda
-menciona o auxílio oferecido pelo governo estadual, que foi apontado por
-D. Emmanuel como propulsor da retomada dos trabalhos, destacando ainda a
-oferta de materiais de construção pelo senador Joaquim de Bastos. No
-encontro seguinte (6.abr.1929), informa-se que os materiais de
-construção (pedras e madeiramento para os andaimes) e a mão-de-obra
-(composta pelos ex-operários do Ginásio Anchieta de Bonfim e por um novo
-engenheiro, Eufrosino Alves Branco) já haviam sido convidados. Diz
-também que a comissão feminina tinha iniciado as arrecadações. Por fim,
-ressaltam a divulgação da iniciativa na imprensa (13.abr.1929), com
-pedidos de abertura de subscrições para coleta de donativos nos jornais.
+# Gastão Bahiana e o projeto da catedral de Santana #
 
 Em abril de 1929 ocorre a primeira comunicação formal entre D. Emmanuel
 e Gastão Bahiana, através de uma carta[^5] enviada pelo bispo ao
