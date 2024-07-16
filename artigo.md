@@ -138,19 +138,11 @@ A construção se iniciou em 1929 e a catedral foi inaugurada em 1935.
 
 <Figuras>
 
-Esse breve panorama objetiva contribuir para a compreensão do contexto
-profissional do arquiteto e das escolhas projetuais que adotava,
-sobretudo, nos casos das catedrais de Campos e de Goiás, que foram
-construídas a partir dos remanescentes de edifícios oriundos do período
-colonial, cujos vestígios foram completamente apagados nas novas
-construções. Já o aprofundamento sobre a carreira e a obra de Gastão
-Bahiana visam a um melhor entendimento mais do espírito da época em que
-foi elaborado o projeto da matriz de Santana. A apresentação da
-edificação acima também busca apresentar referências de como esta
-poderia ter sido, caso o desenho apresentado e submetido à construção na
-década de 1930 fosse finalizado.
-
-Apesar das semelhanças aparentes, ao se comparar ambos os projetos, as
+A comparação com a catedral de Campos é especialmente relevante para o
+estudo da catedral de Goiás pois ambos os projetos foram desenvolvidos
+no escritório de Bahiana na mesma época,
+a distância e sobre os alicerces das igrejas precedentes.
+Apesar das semelhanças aparentes, as
 diferenças ficam bastante claras, apesar de os paralelos só poderem ser
 feitos a partir das fechadas laterais, já que não há plantas disponíveis
 de Campos e não há cortes ou vistas frontais de Goiás. Outra conclusão
@@ -161,32 +153,37 @@ fundos, apresentando também uma cúpula bem menor. As principais
 correspondências estão no partido horizontal bastante alongado, contando
 com fortes elementos classicizantes, como as colunatas e os frontões,
 que coabitam com cúpulas e janelas renascentistas, além das rosáceas
-simplificadas. Entretanto, é fundamental ressaltar que foram localizadas
-duas plantas para a edificação goiana, como explanado a seguir, sendo a
-presente comparação realizada com a segunda delas, referente à fachada
-mencionada acima, pois não se obteve complementos relativos à primeira
-delas.
+simplificadas.
 
-# Gastão Bahiana e a Catedral de Santana na cidade de Goiás
+# A nova catedral de Santana na cidade de Goiás #
 
-Retoma-se, então, a análise do projeto da Catedral de Santana,
-destacando que a estratégia escolhida pelo bispo goiano daquele período,
+A antiga matriz de Santana em taipa de pilão fora erguida a partir de
+1743, substituindo, como era de praxe nas vilas de mineração, uma antiga
+capela rústica. No famoso *Prospecto de Vila Boa* de 1751
+([@fig:prospecto]), a volumetria externa da igreja já aparecia
+consolidada e dotada das características das grandes igrejas
+luso-brasileiras do barroco tardio: frontaria com aberturas em V
+coroadas com frontão, duas torres, galeria lateral, cobertura da
+capela-mor rebaixada com respeito à da nave principal, e consistório
+ainda mais baixo.
+
+![*Prospecto de Villa Boa tomada da parte do Norte para o Sul no anno de 1751*, com destaque para as fachadas frontal e lateral direita da Catedral de Santana no detalhe abaixo.
+Acervo da Casa da Ínsua](){#fig:prospecto}
+
+Entretanto, a igreja estava marcada por defeitos construtivos que já se
+observavam em 1755, resultando num primeiro desabamento da cobertura em
+1758
+
+A arrecadação de fundos para a reconstrução da catedral vinha de longe e
+continuava enquanto se iniciava o projeto de Bahiana.
+
+O convite a Gastão Bahiana para desenvolver o projeto da nova catedral
+de Santana certamente levou em conta o prestígio que o nome do arquiteto
+traria para a diocese de Goiás. Vê-se isso pela insistência do bispo
 D. Emmanuel Gomes de Oliveira, de destacar o nome de Gastão Bahiana na
-divulgação da obra, fato também observado em alguns de seus outros
-trabalhos, teve grande êxito. Isso pode ser comprovado pela reprodução
+divulgação da obra. Isso pode ser comprovado pela reprodução
 dessa informação na maior parte da bibliografia disponível sobre o
-período, a começar por Cônego Trindade Silva (1948, p. 238), que reforça
-seu
-
-> Trabalho de grande valor que permitiu a continuação das obras com o
-> aproveitamento da parte já construída, dando-lhe um estilo de senso
-> perfeitamente litúrgico\... Elevaram-se as colunas das naves,
-> respaldaram-se as paredes dos amplos ambientes das Sacristias, Curia,
-> Chancelaria, Museu Arquidiocesano, ultimou-se a Capela mor, que
-> recebeu o respectivo telhado para serem celebradas, como o foram, em
-> dias festivos, missas campais, dada a amplidão da área do corpo da
-> Igreja, já então com suas paredes graníticas laterais erguidas a boa
-> altura, em toda periferia do templo.
+período, a começar pelo Cônego Trindade e Silva [@silva:1948lugares].
 
 A primeira ata da *Comissão Central das Obras da Cathedral de Sant'Ana*
 (1º.abr.1929) informa que havia um saldo positivo de 6:682\$549 réis
@@ -362,6 +359,18 @@ paredes respectivas desaprumadas", além de comentar sobre as
 dificuldades de transporte dos materiais de construção, em razão da
 precariedade das estradas.
 
+# Caráter do projeto #
+
+> Trabalho de grande valor que permitiu a continuação das obras com o
+> aproveitamento da parte já construída, dando-lhe um estilo de senso
+> perfeitamente litúrgico\... Elevaram-se as colunas das naves,
+> respaldaram-se as paredes dos amplos ambientes das Sacristias, Curia,
+> Chancelaria, Museu Arquidiocesano, ultimou-se a Capela mor, que
+> recebeu o respectivo telhado para serem celebradas, como o foram, em
+> dias festivos, missas campais, dada a amplidão da área do corpo da
+> Igreja, já então com suas paredes graníticas laterais erguidas a boa
+> altura, em toda periferia do templo. [@silva:1948lugares, 238]
+
 Gastão Bahiana encaminha nova e detalhada carta em 2 de julho de 1929,
 explicando o "esboço do projecto" proposto até aquele momento e
 declarando sua grande dificuldade em "fixar um programa definitivo".
@@ -411,27 +420,7 @@ a sacristia". Acrescenta, ainda, que a planta:
 > 50 de altura livre) e as naves lateraes por forro plano, tambem de
 > madeira (pé direito 11^m^, 50).
 
-  -------------------------------------------------------------------------------------------------------------------------------------
-  ![Texto preto sobre fundo branco Descrição gerada                  ![Texto, Carta Descrição gerada
-  automaticamente](media/image12.png){width="3.2579035433070866in"   automaticamente](media/image13.png){width="2.8123851706036747in"
-  height="3.8976377952755907in"}                                     height="3.8976377952755907in"}
-  ------------------------------------------------------------------ ------------------------------------------------------------------
-
-  -------------------------------------------------------------------------------------------------------------------------------------
-
-+-----------------------------------+-----------------------------------+
-| Figura 12 - Croqui explicativo da | Figura 13 - Croqui explicativo da |
-| planta-baixa, extraído da carta   | planta-baixa, extraído da carta   |
-| de Gastão Bahiana de 2 de julho   | de Gastão Bahiana de 2 de julho   |
-| 1929 (apresentado na mesma        | 1929 (apresentado na mesma        |
-| orientação constante no documento | orientação constante no documento |
-| original).                        | original).                        |
-|                                   |                                   |
-| Fonte: Acervo de Dom Emmanuel     | Fonte: Acervo de Dom Emmanuel     |
-| Gomes de Oliveira (IPEHBC --      | Gomes de Oliveira (IPEHBC --      |
-| PUC-GO).                          | PUC-GO).                          |
-+===================================+===================================+
-+-----------------------------------+-----------------------------------+
+<Figuras>
 
 Quanto ao corte ou "secção" apresentada, esclarece que passa pela
 capela-mor e representa a "apparencia interna da egreja, tratado em
@@ -453,18 +442,7 @@ condição, caso houvesse recursos. Já em relação à cúpula informa que
 > Esta solução, muito mais simples e economica do que a cupola, será
 > entretanto de aspecto interno e externo menos imponente.
 
-+-----------------------------------------------------------------------+
-| ![Imagem em preto e branco de uma cerca Descrição gerada              |
-| automaticamente com confiança                                         |
-| média](media/image14.png){width="3.8188976377952755in"                |
-| height="4.273462379702537in"}                                         |
-+=======================================================================+
-| Figura 14 - Corte do projeto de Gastão Bahiana, indicando a           |
-| capela-mor da Catedral de Santana, 1929 (entretanto, ele não se       |
-| refere à versão mencionada na carta acima, talvez, a uma posterior).  |
-|                                                                       |
-| Fonte: COELHO, 2014, p. 66.                                           |
-+-----------------------------------------------------------------------+
+<Figuras>
 
 Acerca das torres, Bahiana afirma não ter podido ainda se aprofundar nos
 estudos, recomendado apenas que seus alicerces deveriam "descer até a
