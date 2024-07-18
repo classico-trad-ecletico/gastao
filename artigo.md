@@ -67,18 +67,6 @@ partes --- o arquiteto, o bispo e as comissões que supervisionavam a
 obra e a diocese --- quanto das dificuldades inerentes às preexistências
 materiais e afetivas vinculadas às ruínas da catedral anterior.
 
-Este artigo reconstitui a encomenda e o desenvolvimento do projeto de
-Bahiana a partir de 1929, a sua implementação eivada de
-retrabalhos e interrupções, até a suspensão definitiva das obras em 1935.
-Ao longo desse processo, a importância financeira e afetiva das
-fundações preexistentes tornou-se um fator determinante para a modulação
-da estética Beaux-Arts defendida pelo arquiteto às proporções e
-dimensões de uma planta de origem colonial. Os discursos registrados em
-correspondências e atas evidenciam as diferentes atitudes para com o
-patrimônio cultural, assim como o modo pelo qual a comunidade vilaboense
-oscilou entre a ânsia pelo prestígio de um arquiteto nacionalmente
-reconhecido e o apego à memória da antiga catedral.
-
 Este texto apresenta, destarte, a situação da catedral parcialmente
 arruinada no seu sítio e na identidade cultural dos círculos sociais
 mais próximos à cúpula diocesana.
@@ -90,7 +78,19 @@ no trabalhoso diálogo entre as preexistências materiais e afetivas da
 antiga igreja e os envios do arquiteto, cujo conhecimento do sítio
 físico era incompleto.
 
-O presente artigo deriva de uma pesquisa de doutorado que investigou
+Para tanto, o artigo reconstitui a encomenda e o desenvolvimento do projeto de
+Bahiana a partir de 1929, a sua implementação eivada de
+retrabalhos e interrupções, até a suspensão definitiva das obras em 1935.
+Ao longo desse processo, a importância financeira e afetiva das
+fundações preexistentes tornou-se um fator determinante para a modulação
+da estética Beaux-Arts defendida pelo arquiteto às proporções e
+dimensões de uma planta de origem colonial. Os discursos registrados em
+correspondências e atas evidenciam as diferentes atitudes para com o
+patrimônio cultural, assim como o modo pelo qual a comunidade vilaboense
+oscilou entre a ânsia pelo prestígio de um arquiteto nacionalmente
+reconhecido e o apego à memória da antiga catedral.
+
+Este trabalho deriva de uma pesquisa de doutorado que investigou
 três das principais igrejas existentes na cidade de Goiás, inscrita como
 Patrimônio da Humanidade em 2001. O período
 analisado incorporada os últimos anos da cidade como sede administrativa
@@ -105,7 +105,9 @@ ao acervo do Núcleo de Pesquisa e Documentação da Faculdade
 de Arquitetura e Urbanismo da Universidade Federal do Rio de Janeiro
 (NPD--UFRJ)[^3].
 
-# A catedral de Santana na cidade de Goiás #
+# Primícias #
+
+## A catedral de Santana na cidade de Goiás ##
 
 A antiga matriz de Santana em taipa de pilão fora erguida a partir de
 1743, substituindo, como era de praxe nas vilas de mineração, uma antiga
@@ -160,7 +162,7 @@ dessa informação na maior parte da bibliografia disponível sobre o
 período, a começar pelo Cônego Trindade e Silva [@silva:1948lugares].
 De fato, a reputação de Bahiana não era sem motivo.
 
-# Arquitetura religiosa de Gastão Bahiana #
+## Arquitetura religiosa de Gastão Bahiana ##
 
 O arquiteto Gastão Bahiana (1874--1959) produziu, ao longo de sua
 carreira, vários projetos de igrejas, construídos ou não.
@@ -210,7 +212,9 @@ com fortes elementos classicizantes, como as colunatas e os frontões,
 que coabitam com cúpulas e janelas renascentistas, além das rosáceas
 simplificadas.
 
-# Gastão Bahiana e o projeto da catedral de Santana #
+# A relação com os vestígios da catedral de Santana #
+
+## Primeiros contatos com o arquiteto ##
 
 As fontes remanescentes da comunicação entre o bispo e o arquiteto
 consistem em cinco cartas datadas de 1929 a 1934, alguns telegramas,
@@ -255,72 +259,92 @@ e mão de obra (ata de 20 de abril de 1929),
 e até mesmo na realização de trabalhos preparatórios.
 Nisso percebe-se o protagonismo dos engenheiros locais Luiz Confucio
 e Eufrasino Alves Branco.
+A 8 de junho, a ata da reunião da Comissão Central registra que,
+mesmo sem definição do projeto arquitetônico, já se trabalha no
+reforço dos alicerces, aparentemente no mesmo alinhamento
+das fundações originais: "por terem sido demolidos os alicerces que eram
+insufficientes e defeituosos e as paredes respectivas desaprumadas".
 
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-"é necessario demolir
-totalmente as paredes internas do corpo da egreja, entre a torre e a
-capella-mór".
+## Materialidade da catedral em 1929 ##
 
-como se vê no trecho a seguir, e
-reiterando que não poderia começar o trabalho sem uma "planta exacta das
-paredes existentes, com indicação farta das medidas" (distâncias,
-larguras, aberturas, espessuras, pilastras, sapatas dos alicerces e
-pedestais das pilastras das torres[^6]):
+Reiniciada a campanha para reconstruir a catedral,
+não se procede a qualquer remoção de ruínas remanescentes no sítio.
+Em conformidade com um entendimento mais tradicional da utilidade
+dos espólios e do reaproveitamento de alicerces,
+o novo projeto arquitetônico é que definirá a possibilidade de
+reutilização da materialidade existente.
 
-> 1º que haverá toda a vantagem em substituir as paredes do corpo da
-> egreja por duas ordens de columnas ou pilastras; 2º que será
-> conveniente, por economia, aproveitar as paredes da capella-mór, se as
-> suas condições de conservação o permittirem; 3º que, n\'este caso, as
-> columnas do corpo principal deveriam ser collocadas de preferencia,
-> não sobre os alicerces das paredes demolidas, mas no alinhamento das
-> paredes da capella-mór, de modo que a nave principal passe a ter a
-> mesma largura (12 m) da capella-mór, dando assim apparencia maior ao
-> internor da egreja, e simplificando a construcção, principalmente o
-> telhado.
+Desde o final de abril de 1929, Gastão Bahiana comunica
+o bispo por telegrama de que "é necessario demolir totalmente as paredes
+internas do corpo da egreja, entre a torre e a capella-mór", ou seja,
+aquelas que estavam arruinadas desde 1874.
+Por outro lado, em carta datada do mesmo mês,
+o arquiteto solicita um levantamento preciso das "paredes existentes",
+com ênfase para as dimensões dos seus alicerces e para
+a caracterização dos sistemas construtivos empregados,
+indicando a oportunidade de se conservar os elementos existentes
+"de cantaria lavrada".
+
+Na mesma carta, Bahiana sugere preliminarmente "que será conveniente,
+por economia, aproveitar as paredes da capella-mór, se as suas
+condições de conservação o permittirem".
+Não obstante, prefere não aproveitar os alicerces das paredes
+arruinadas, dando a entender que seriam inadequados para a estabilidade
+da nova construção, e especialmente da cobertura da nave.
+A questão do aproveitamento de materiais também comparece na ata da
+reunião da Comissão Central a 20 de abril.
+Os engenheiros Confucio e Branco sinalizam a "conveniencia de se
+aproveitarem" tijolos espoliados de outras edificações,
+desde que conformes ao calibre mais usual de então,
+de 27 × 13 × 7 centímetros.
 
 <Figura 7>
 
 <Figura 8>
 
-Foi localizado também um rascunho da carta[^7] escrita pelo bispo em
-resposta à correspondência de Gastão Bahiana de 2 de junho de 1929 e que
-contém importantes dados sobre o estado da edificação naquele momento.
+Entretanto, um rascunho de carta do bispo, em resposta à
+correspondência do arquiteto datada de 2 de junho de 1929,
+frustra a expectativa de aproveitamento das partes não arruinadas.
 Inicia informando a necessidade "absoluta de demolição de todas as
 paredes em torno da Capella-mór, por inconsistentes, desaprumadas e
-\[\...\] sem alicerces", sendo incapazes de suportar cargas, o que
-acreditava ele facilitar a realização do novo projeto. O documento segue
-estruturado em 16 tópicos argumentativos acerca das proposições
-realizadas incialmente, entretanto, a legibilidade dele está muito
-comprometida, não sendo possível sua compreensão integral. Porém, serão
-destacados os pontos principais:
+[...] sem alicerces".
 
--   Envio de uma **nova planta** com a indicação clara das "paredes e
-    columnas parcialmente ou totalmente demolidos".
+Os problemas materiais com os remanescentes da antiga catedral
+evidenciam a relação da diocese e da comunidade local com o seu
+patrimônio material.
+Assim como no caso da catedral de Campos,
+o aproveitamento dos alicerces e de parte das paredes é visto
+como um expediente econômico, mas também como indicador da
+continuidade entre o edifício antigo e o novo.
 
--   Concordância com a **demolição** "de um terço das paredes da
-    Capella-mór para se dar mais corpo a Egreja e tambem assim
-    facilitaria lhe o trabalho de plantas e simplificação do telhado",
-    destacando que "o povo, em geral, não se impressionou c/ as
-    demolições já levadas a (\...) termo". Isso poderia demostrar o grau
-    de confiança da população local nos trabalhos empreendidos, já que
-    aparentemente não houve manifestação contrária ao ato.
+Todavia, no texto de D. Emmanuel de junho de 1929 mencionado acima,
+já comparece o conceito mais moderno de que a materialidade existente
+é um estorvo ao desenvolvimento do projeto.
+Segundo o bispo, a demolição não apenas das paredes da nave, mas
+também "de um terço das paredes da Capella-mór para se dar mais corpo a
+Egreja e tambem assim facilitaria lhe o trabalho de plantas e
+simplificação do telhado", destacando que "o povo, em geral, não se
+impressionou com as demolições já levadas a [...] termo".
+Reciprocamente, as demandas do prelado no sentido de manter elementos
+existentes parecem se reportar sobretudo a conveniências utilitárias.
+Por exemplo, conservar as portas laterais da capela-mor para facilitar o
+acesso às sacristias e à capela do Santíssimo Sacramento, assim como
+aquelas previstas no altar-mor e nos altares laterais, de modo a
+permitir a entrada e a comunicação com a sacristia sem atravessar toda a
+igreja.
+Também solicita a preservação dos dois altares laterais existentes.
 
--   Intenção de se manter os dois **altares laterais** das naves
-    respectivas ao fundo destas (no mesmo alinhamento do altar-mor).
 
--   Preocupação com a manutenção de **portas** laterais na capela-mor,
-    para facilitar o acesso às sacristias e à capela do Santíssimo
-    Sacramento, assim como, com a permanência daquelas previstas no
-    altar-mor e nos altares laterais, de modo a permitir a entrada e a
-    comunicação com a sacristia sem atravessar toda a igreja (solicita
-    também duas salas grandes iguais de cada lado da capela-mor). Quanto
+# Caráter do projeto #
+
+-   também duas salas grandes iguais de cada lado da capela-mor). Quanto
     às portas externas das sacristias, indica que "poderão ocupar as
     mesmas posições da planta anterior".
 
 -   Parece discordar da sugestão apresentada para a construção de uma
     **cripta** no subsolo, por este ser "rochoso granítico
-    \[*ilegível*\] com agua abundante", informação que procede,
+    [*ilegível*] com agua abundante", informação que procede,
     recordando-se das queixas observadas no século anterior, que levaram
     à proibição dos sepultamentos dentro das dependências do edifício.
 
@@ -371,15 +395,6 @@ destacados os pontos principais:
     paralelo com a execução de seus desenhos, situação agravada pelos
     constantes problemas encontrados na obra e pela falta de informação
     resultante de sua impossibilidade de visitar o local.
-
-A nona ata da Comissão Central (8.jun.1929) faz registros diversos e
-menciona que "continuam os trabalhos de fundação, por terem sido
-demolidos os alicerces que eram insufficientes e defeituosos e as
-paredes respectivas desaprumadas", além de comentar sobre as
-dificuldades de transporte dos materiais de construção, em razão da
-precariedade das estradas.
-
-# Caráter do projeto #
 
 > Trabalho de grande valor que permitiu a continuação das obras com o
 > aproveitamento da parte já construída, dando-lhe um estilo de senso
@@ -528,7 +543,9 @@ documental e apresentados ao longo desta subseção, permitindo-se
 reconhecer que estes últimos se referem a uma fase posterior ao estágio
 da obra explicitado na carta.
 
-# Vicissitudes do projeto diante dos vestígios encontrados #
+# Processo construtivo #
+
+## Vicissitudes do projeto diante dos vestígios encontrados ##
 
 Em nova reunião ocorrida em 4 de julho do mesmo ano, D. Emmanuel já
 demonstra alguns sinais de desgaste ao mencionar que "é necessario
@@ -643,7 +660,7 @@ formal, como observado abaixo:
 | Fonte: Acervo do Gastão Bahiana, NPD-UFJR.                            |
 +-----------------------------------------------------------------------+
 
-# Restrições orçamentárias #
+## Restrições orçamentárias ##
 
 A ata de 22 de agosto da Comissão central registra o recebimento e
 apresentação do referido projeto por D. Emmanuel, mas sem maiores
@@ -987,13 +1004,6 @@ história da arquitetura brasileira.
 
 # Referências bibliográficas 
 
-BRITTO, Clovis Carvalho; ROSA, Rafael Lino. *Mestra e Guia*: A Catedral
-de Sant\'Ana e as devoções de Darcília Amorim. Goiânia: Editora Espaço
-Acadêmico, 2017.
-
-COELHO, Gustavo Neiva. *Guia dos bens imóveis tombados em Goiás*: Vila
-Boa, volume I. Goiânia, Instituto dos Arquitetos do Brasil, 1999.
-
 COELHO, Gustavo Neiva. *Arquitetura religiosa setecentista em Vila Boa*.
 Goiânia: Editora Vieira, 2014.
 
@@ -1004,10 +1014,6 @@ FREITAS, Maria Luiza de. *Modernidade concreta: as grandes construtoras
 e o concreto armado no Brasil, 1920 a 1940*. 2011. Tese (Doutorado em
 História e Fundamentos da Arquitetura e do Urbanismo) - Faculdade de
 Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2011.
-
-SILVA, José Trindade da Fonseca e. *Lugares e pessoas* - Subsídios
-eclesiásticos para a história de Goiás. São Paulo: Escolas Profissionais
-Salesianas, 1948.
 
 [^1]: A elaboração do presente artigo foi financiada com recursos do
     programa PROAP da CAPES.
