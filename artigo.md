@@ -105,23 +105,22 @@ ao acervo do Núcleo de Pesquisa e Documentação da Faculdade
 de Arquitetura e Urbanismo da Universidade Federal do Rio de Janeiro
 (NPD--UFRJ)[^3].
 
-# A nova catedral de Santana na cidade de Goiás #
+# A catedral de Santana na cidade de Goiás #
 
 A antiga matriz de Santana em taipa de pilão fora erguida a partir de
 1743, substituindo, como era de praxe nas vilas de mineração, uma antiga
 capela rústica. No famoso *Prospecto de Vila Boa* de 1751
 ([@fig:prospecto]), a volumetria externa da igreja já aparecia
-consolidada e dotada das características das grandes igrejas
-luso-brasileiras do barroco tardio: frontaria com aberturas em V
-coroadas com frontão, duas torres, galeria lateral, cobertura da
-capela-mor rebaixada com respeito à da nave principal, e consistório
-ainda mais baixo.
+consolidada.
+Entretanto, a edificação estava marcada por defeitos construtivos,
+resultando num primeiro desabamento da cobertura em 1758.
+Repetidos desabamentos e reconstruções ocorreram ao longo do
+século XIX até que a então catedral acabasse por arruinar-se
+quase por inteiro em 1874 [@luz:2012goyaz; @britto:2017mestra].
+Os últimos esforços de recuperação da estrutura foram abandonados
+definitivamente em 1878 [@luz:2012goyaz].
 
 ![*Prospecto de Villa Boa tomada da parte do Norte para o Sul no anno de 1751*, com destaque para as fachadas frontal e lateral direita da Catedral de Santana no detalhe abaixo. Acervo da Casa da Ínsua](){#fig:prospecto}
-
-Entretanto, a igreja estava marcada por defeitos construtivos que já se
-observavam em 1755, resultando num primeiro desabamento da cobertura em
-1758
 
 A intenção de reconstruir a catedral era desde então um anseio da
 comunidade local, mas os esforços efetivos para tanto só se
@@ -213,18 +212,57 @@ simplificadas.
 
 # Gastão Bahiana e o projeto da catedral de Santana #
 
-Em abril de 1929 ocorre a primeira comunicação formal entre D. Emmanuel
-e Gastão Bahiana, através de uma carta[^5] enviada pelo bispo ao
-arquiteto, contendo informações gerais sobre a catedral, uma planta de
+As fontes remanescentes da comunicação entre o bispo e o arquiteto
+consistem em cinco cartas datadas de 1929 a 1934, alguns telegramas,
+desenhos, fotografias e objetos originalmente pertencentes aos acervos
+do bispo D. Emmanuel e do cônego Trindade Silva, atualmente
+depositados no IPEHBC da PUC--GO.
+Essas fontes registram, entre outras vicissitudes do projeto da
+catedral de Goiás, o olhar dos agentes para as preexistências
+das ruínas e a concepção que eles tinham da identidade cultural
+a ser transmitida por meio do estilo arquitetônico.
+
+A primeira dessas correspondências é datada de abril de 1929,
+e contém informações gerais sobre a catedral, uma planta de
 sua configuração naquele momento e fotografias para subsidiar a
-elaboração do novo projeto. Entretanto, o projetista logo informa via
-telegrama que "a planta recebida é insufficiente, é necessario demolir
+elaboração do novo projeto. Entretanto, o arquiteto logo informa via
+telegrama que "a planta recebida é insufficiente" devido à ausência
+de escalas ou medidas no desenho.
+Mesmo com as informações fragmentárias recebidas, porém,
+Bahiana responde à carta oferecendo três propostas projetuais
+ao prelado.
+
+Ao final do mês, o bispo anuncia sua viagem ao Rio de Janeiro para
+tratar dos "assumptos referentes á planta definitiva da Cathedral e de
+adquirir materiaes e de conseguir operarios para os trabalhos da mesma
+cathedral".
+Fica claro, pela ata da Comissão de 1.º de junho, que as tratativas
+de D. Emmanuel com Bahiana visam em grande medida a adquirir um trunfo
+de relações públicas para a obra da catedral de Goiás.
+A divulgação da obra na imprensa nacional, por iniciativa do bispo,
+é inclusive feita utilizando-se uma perspectiva da catedral de
+Campos, mostrando que a publicidade depende mais do nome do arquiteto
+do que da aparência específica da catedral de Goiás.
+
+Porém, o desenvolvimento desse projeto ainda esbarra,
+no início de junho, não apenas na falta de clareza quanto ao
+levantamento das condições existentes, mas também na multiplicação
+de demandas por parte do contratante, por vezes contraditórias,
+quanto ao programa e ao aproveitamento das estruturas remanescentes.
+Entretanto, a indefinição projetual não impede que a Comissão já se
+tenha adiantado desde finais de abril na obtenção de materiais
+e mão de obra (ata de 20 de abril de 1929),
+e até mesmo na realização de trabalhos preparatórios.
+Nisso percebe-se o protagonismo dos engenheiros locais Luiz Confucio
+e Eufrasino Alves Branco.
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+"é necessario demolir
 totalmente as paredes internas do corpo da egreja, entre a torre e a
-capella-mór". Na sequência, ele justifica a solicitação devido à
-ausência de escala no desenho encaminhado, assim como, de "medidas
-essenciais para fazer se ideia exacta do que lá existe". A partir das
-informações fragmentárias recebidas, Bahiana responde a carta oferecendo
-três propostas projetuais ao prelado como se vê no trecho a seguir, e
+capella-mór".
+
+como se vê no trecho a seguir, e
 reiterando que não poderia começar o trabalho sem uma "planta exacta das
 paredes existentes, com indicação farta das medidas" (distâncias,
 larguras, aberturas, espessuras, pilastras, sapatas dos alicerces e
@@ -242,32 +280,6 @@ pedestais das pilastras das torres[^6]):
 > telhado.
 
 <Figura 7>
-
-Na ata da Comissão Central de 20 de abril de 1929, D. Emmanuel comenta o
-conteúdo dessa correspondência, esclarecendo que a planta a ser
-substituída havia sido "levantada gratuitamente pelo Sen. D. Joaquim
-Jubé Júnior", portanto, sem os devidos conhecimentos técnicos para tal.
-Destaca também que os engenheiros Luiz Confucio e Eufrasino Alves Branco
-aconselharam "que adoptasse na construcção tijolos de um só calibre que
-deverá ser de 0^m^, 27 x 0^m^, 13 x 0^m^, 7". Falam também da
-"conveniencia de se aproveitarem" de outras edificações, o que parecia
-ser uma prática antiga e comum, já que foi observada em vários momentos
-ao longo desta e de intervenções anteriores feitas no edifício.
-
-Na semana seguinte, o bispo anuncia sua viagem ao Rio de Janeiro para
-tratar dos "assumptos referentes á planta definitiva da Cathedral e de
-adquirir materiaes e de conseguir operarios para os trabalhos da mesma
-cathedral". Já a ata da Comissão Central de 1º de junho de 1929 menciona
-o pedido de Bahiana por "outras medidas que julga necessarias" para o
-projeto, registrado que os desenhos solicitados seriam enviados "no
-próximo Correio". O bispo comenta também sobre sua recente viagem à
-capital federal, dando destaque à realização de "varias Conferencias com
-o Engenheiro Architecto sobre a planta definitiva da Cathedral", à
-compra de materiais de construção e à contratação de operários. Fala,
-ainda, da divulgação da obra feita na imprensa nacional, que incluiu a
-publicação da "planta da catedral", referindo-se, na realidade, à
-perspectiva da catedral de Campos, reproduzida acima, como se fosse a de
-Goiás.
 
 <Figura 8>
 
@@ -1014,12 +1026,6 @@ Salesianas, 1948.
     esta razão, a iniciativa pela nova concepção formal e espacial
     partiu dos engenheiros, que derivando da premissa das tecnologias
     construtivas alcançaram uma '*estética do engenheiro*'".
-
-[^5]: Registra-se que foram encontradas cinco correspondências trocadas
-    entre ambos de 1929 a 1934, além de cerca de cinco telegramas,
-    desenhos, fotografias e objetos, constando alguns deles nos acervos
-    de Dom Emmanuel Gomes de Oliveira e do Cônego Trindade Silva, que
-    estão depositados no IPEHBC -- PUC-GO.
 
 [^6]: Nota-se que o arquiteto se preocupa em conhecer o material
     original desses elementos, "de cantaria lavrada ou de material
