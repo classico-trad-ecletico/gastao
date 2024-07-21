@@ -303,14 +303,8 @@ de 27 × 13 × 7 centímetros.
 
 <Figura 8>
 
-Entretanto, um rascunho de carta do bispo, em resposta à
-correspondência do arquiteto datada de 2 de junho de 1929,
-frustra a expectativa de aproveitamento das partes não arruinadas.
-Inicia informando a necessidade "absoluta de demolição de todas as
-paredes em torno da Capella-mór, por inconsistentes, desaprumadas e
-[...] sem alicerces".
-
-Os problemas materiais com os remanescentes da antiga catedral
+Entretanto,
+os problemas materiais com os remanescentes da antiga catedral
 evidenciam a relação da diocese e da comunidade local com o seu
 patrimônio material.
 Assim como no caso da catedral de Campos,
@@ -318,7 +312,14 @@ o aproveitamento dos alicerces e de parte das paredes é visto
 como um expediente econômico, mas também como indicador da
 continuidade entre o edifício antigo e o novo.
 
-Todavia, no texto de D. Emmanuel de junho de 1929 mencionado acima,
+Um rascunho de carta do bispo, em resposta à
+correspondência do arquiteto datada de 2 de junho de 1929,
+frustra, porém, a expectativa de aproveitamento das partes não arruinadas.
+Inicia informando a necessidade "absoluta de demolição de todas as
+paredes em torno da Capella-mór, por inconsistentes, desaprumadas e
+[...] sem alicerces".
+
+No texto de D. Emmanuel de junho de 1929 mencionado acima,
 já comparece o conceito mais moderno de que a materialidade existente
 é um estorvo ao desenvolvimento do projeto.
 Segundo o bispo, a demolição não apenas das paredes da nave, mas
