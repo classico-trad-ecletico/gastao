@@ -339,6 +339,16 @@ Também solicita a preservação dos dois altares laterais existentes.
 
 # Caráter do projeto #
 
+## Consolidação do programa ##
+
+Os relatos de junho de 1929 são as últimas ocasiões em que se levanta
+a hipótese de conservar a materialidade histórica da catedral de
+Santana.
+Na continuação da correspondência entre o arquiteto e D. Emmanuel,
+é questão de adequar as demandas programáticas estabelecidas
+pelo bispo naquele mesmo mês de junho
+às restrições espaciais e financeiras da obra da catedral.
+
 -   também duas salas grandes iguais de cada lado da capela-mor). Quanto
     às portas externas das sacristias, indica que "poderão ocupar as
     mesmas posições da planta anterior".
@@ -396,6 +406,14 @@ Também solicita a preservação dos dois altares laterais existentes.
     paralelo com a execução de seus desenhos, situação agravada pelos
     constantes problemas encontrados na obra e pela falta de informação
     resultante de sua impossibilidade de visitar o local.
+
+## Projeto definitivo ##
+
+A recepção do projeto de Bahiana para a catedral de Santana se
+concentrou no seu atendimento às demandas funcionais da congregação,
+sem excluir juízos de gosto.
+Por exemplo, em 1948, mais de uma década depois da interrupção
+das obras, o cônego Trindade Silva avalia o projeto como sendo um:
 
 > Trabalho de grande valor que permitiu a continuação das obras com o
 > aproveitamento da parte já construída, dando-lhe um estilo de senso
