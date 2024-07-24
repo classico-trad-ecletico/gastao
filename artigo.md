@@ -259,11 +259,18 @@ e mão de obra (ata de 20 de abril de 1929),
 e até mesmo na realização de trabalhos preparatórios.
 Nisso percebe-se o protagonismo dos engenheiros locais Luiz Confucio
 e Eufrasino Alves Branco.
+
 A 8 de junho, a ata da reunião da Comissão Central registra que,
-mesmo sem definição do projeto arquitetônico, já se trabalha no
+mesmo sem que o projeto arquitetônico tenha sido sequer iniciado,
+já se trabalha no
 reforço dos alicerces, aparentemente no mesmo alinhamento
 das fundações originais: "por terem sido demolidos os alicerces que eram
 insufficientes e defeituosos e as paredes respectivas desaprumadas".
+Essa situação resultará em um grande desafio para o arquiteto futuramente,
+sobretudo, no trabalho de conciliação dos serviços em andamento em
+paralelo com a execução de seus desenhos, situação agravada pelos
+constantes problemas encontrados na obra e pela falta de informação
+resultante de sua impossibilidade de visitar o local.
 
 
 ## Materialidade da catedral em 1929 ##
@@ -334,85 +341,99 @@ acesso às sacristias e à capela do Santíssimo Sacramento, assim como
 aquelas previstas no altar-mor e nos altares laterais, de modo a
 permitir a entrada e a comunicação com a sacristia sem atravessar toda a
 igreja.
-Também solicita a preservação dos dois altares laterais existentes.
 
 
 # Caráter do projeto #
 
-## Consolidação do programa ##
+## Fim do respeito à materialidade original ##
 
 Os relatos de junho de 1929 são as últimas ocasiões em que se levanta
 a hipótese de conservar a materialidade histórica da catedral de
 Santana.
+Mesmo a solicitação do bispo de que sejam preservados
+os dois altares laterais existentes termina por ser abandonada.
 Na continuação da correspondência entre o arquiteto e D. Emmanuel,
 é questão de adequar as demandas programáticas estabelecidas
 pelo bispo naquele mesmo mês de junho
 às restrições espaciais e financeiras da obra da catedral.
 
--   também duas salas grandes iguais de cada lado da capela-mor). Quanto
-    às portas externas das sacristias, indica que "poderão ocupar as
-    mesmas posições da planta anterior".
+Ainda assim, Bahiana continua a se levantar o argumento de que é
+importante respeitar a edificação original, porém indicando que
+não se trata apenas de uma questão memorial, mas também prática.
+Em nova e detalhada carta datada de 2 de julho de 1929,
+explicando o "esboço do projecto" proposto até aquele momento e
+declarando sua grande dificuldade em "fixar um programa definitivo".
+Isso se deve à ausência de informações básicas, sobretudo, quanto à
+posição dos alicerces ao redor da capela-mor, sem mencionar as más
+condições dos remanescentes da edificação existente, como paredes e
+fundações.
+Contudo, no segundo dos cinco pontos da carta,
+reivindica o duplo laço da "tradição" e da "solidez" como
+motivos para se manter o alinhamento das prumadas originais,
+mesmo quando estas tiverem sido inteiramente demolidas:
 
--   Parece discordar da sugestão apresentada para a construção de uma
-    **cripta** no subsolo, por este ser "rochoso granítico
-    [*ilegível*] com agua abundante", informação que procede,
-    recordando-se das queixas observadas no século anterior, que levaram
-    à proibição dos sepultamentos dentro das dependências do edifício.
+> 2º Mesmo no caso de se demolir toda a alvenaria existente, inclusive
+> alicerces, convem projectar os muros da construcção nova tanto quanto
+> possivel, na mesma posição actual, não só por respeito á
+> tradição, como para poder aproveitar qualquer elemento de reconhecida
+> solidez.
 
--   Informe terem indicado a posição desejada para as **sacristias** a
-    lápis no desenho encaminhado, sugerindo um segundo pavimento sobre
-    elas para abrigar a Cúria diocesana e comentando, ainda, sobre seus
-    acessos.
+A correspondência de junho e julho de 1929 explicita como a
+materialidade preexistente era um suporte dispensável
+da memória patrimonial quanto à história da catedral de Santana.
+O bispo considera essa materialidade um estorvo à flexibilidade de
+se definir um novo projeto.
+Já o arquiteto levanta o argumento da materialidade apenas no âmbito de
+um problema mais amplo que envolve a restrição de espaço disponível
+no sítio físico da obra e a economia de recursos.
 
--   Na sequência, menciona "um total de 57 m de **extensão** a nossa
-    catedral".
+Ao longo da mesma carta de 2 de julho, o argumento da tradição local
+desliza paulatinamente da materialidade preexistente para o trabalho
+artesanal, mas sempre girando em torno da questão da economicidade.
+Chega, então, ao tema dos tijolos, perguntando sobre as dimensões
+correntes dos tijolos produzidos na região.
+Relata a
+existência de amostras maiores do que a enviada a ele anteriormente, as
+quais mediam 19 × 9 × 6 centímetros, diferentemente, portanto,
+do módulo especificado pelos engenheiros da Comissão Central.
+O módulo da alvenaria impacta, diz ele, na possibilidade de
+especificação de novas paredes mais finas no caso da confirmação da
+demolição interna geral, inclusive nas torres, "de modo que as
+pilastras, internas e externas, previstas no esboço, possam se apoiar
+nos alicerces actuaes".
 
--   Lembra da necessidade de "bastante **luz e ar** na parede reservada
-    aos sarcophagos \[?\] naturalmente por meio de [vitraux]{.underline}
-    com partes moveis". Essa preocupação se estende para os alteres
-    laterais, que deveriam ficar "na direcção das janelas a serem
-    fechadas aproveitando-se, como nichos, parte dos vãos das mesmas,
-    internamente; formando-se em cada uma dellas uma rosácea \[\...\],
-    de soberbos vitraux com muita luz e muito ar para a situação de
-    baixa (topographicamente) da n/ Cathedral".
+Mesmo respeitando o trabalho artesanal em alvenaria, com
+maior racionalidade pela opção pela matéria-prima local,
+indica que essa preferência pela tradição é relativa e
+fundamentalmente de natureza econômica, pois "o uso de
+cimento e do ferro póde permittir a redução do volume das alvenarias em
+proporção que talvez compense o excesso de custo destes materiaes".
+O pouco crédito que o arquiteto dá à qualidade técnica vilaboense fica
+patente quando argumenta que "as linhas architectonicas devem ser
+simples, afim de se poder executar toda a construcção com operarios
+da localidade."
 
--   Nesse ponto, chama a atenção o seguinte questionamento: "Envio-lhe a
-    planta feita pelo architecto **Elisário Bahiana** de que lhe havia
-    fallado. Na linha C -- D em lugar dos altares não estariam bem duas
-    portas mais para a Cathedral?" Este desenho seria o mesmo que
-    designa como "planta anterior" acima? Ou poderia ainda ser o projeto
-    encomendado por D. Prudêncio no início do século a um "engenheiro
-    carioca"? Considerando-se que Elisário, sobrinho de Gastão, já
-    atuava profissionalmente nesse período, mesmo ainda não tendo
-    concluído seus estudos na ENBA. Ressalva-se que não foram
-    encontrados documentos que respondam a essas perguntas, porém elas
-    oferecem novas possibilidades na busca pela identificação do autor
-    do projeto utilizado a partir de 1909, do qual só há registro da
-    fachada apresentada no subitem anterior.
+Bahiana conclui a missiva disponibilizando-se para a
+realização das modificações necessárias e insistindo no
+questionamento sobre os alicerces:
+"quaes as partes que vão até a rocha;
+quaes as partes inaproveitaveis e que deverão ser reconstruidas, até a
+rocha ou não; qual a natureza do terreno no caso de não se descer até a
+rocha".
 
--   À continuação, D. Emmanuel reforça que o "**Cruzeiro** não poderá
-    ter saliencias por causa das ruas estreitas, lateraes", revelando
-    que a ocupação do amplo espaço livre observado ao redor da
-    edificação até meados no século anterior, como se vê na *Planta da
-    Cidade de Goyaz* de 1867.
 
--   Conclui pedindo **urgência** na elaboração da planta das sacristias
-    e da parte superior ao altar-mor, pois "ficamos certos de começar
-    dalli a construcção. Já estamos enchendo os alicerces que ficarão
-    respaldados por todo este mez". Essa passagem indica que as obras,
-    de fato, começaram sem que o projeto estivesse sequer iniciado,
-    resultando em um grande desafio para o arquiteto futuramente,
-    sobretudo, no trabalho de conciliação dos serviços em andamento em
-    paralelo com a execução de seus desenhos, situação agravada pelos
-    constantes problemas encontrados na obra e pela falta de informação
-    resultante de sua impossibilidade de visitar o local.
+## Estilo e tradição no projeto definitivo ##
 
-## Projeto definitivo ##
+Carta de 2 de julho de 1929:
 
-A recepção do projeto de Bahiana para a catedral de Santana se
-concentrou no seu atendimento às demandas funcionais da congregação,
-sem excluir juízos de gosto.
-Por exemplo, em 1948, mais de uma década depois da interrupção
+> 4º O estylo deve obedecer, de preferencia, ao typo tradicional
+> brasileiro, derivado da architectura italiana do renascimento.
+>
+> 5º Havendo urgência em executar primeiro a capella mór, o projecto
+> deve prever a possibilidade de realizar desde já esta parte de modo
+> completo e definitivo (*grifo duplo nosso*).
+
+Em 1948, mais de uma década depois da interrupção
 das obras, o cônego Trindade Silva avalia o projeto como sendo um:
 
 > Trabalho de grande valor que permitiu a continuação das obras com o
@@ -425,35 +446,6 @@ das obras, o cônego Trindade Silva avalia o projeto como sendo um:
 > Igreja, já então com suas paredes graníticas laterais erguidas a boa
 > altura, em toda periferia do templo. [@silva:1948lugares, 238]
 
-Gastão Bahiana encaminha nova e detalhada carta em 2 de julho de 1929,
-explicando o "esboço do projecto" proposto até aquele momento e
-declarando sua grande dificuldade em "fixar um programa definitivo".
-Isso se deve à ausência de informações básicas, sobretudo, quanto à
-posição dos alicerces ao redor da capela-mor, sem mencionar as más
-condições dos remanescentes da edificação existente, como paredes e
-fundações. Assim, opta por se limitar ao essencial, conforme se observa
-nos cinco pontos transcritos abaixo:
-
-> 1º Resolvida a creação da Cathedral de Goyaz, no local em que foi
-> iniciada a sua construcção, penso que o edificio não póde occupar area
-> maior do que a prevista na origem.
->
-> 2º Mesmo no caso de se demolir toda a alvenaria existente, inclusive
-> alicerces, convem projectar os muros da construcção nova [tanto quanto
-> possivel]{.underline}, na mesma posição actual, não só por respeito á
-> tradição, como para poder aproveitar qualquer elemento de reconhecida
-> solidez.
->
-> 3º As linhas architectonicas devem ser simples, afim de se poder
-> executar toda a construcção com operarios da localidade.
->
-> 4º O estylo deve obedecer, de preferencia, ao typo tradicional
-> brasileiro, derivado da architectura italiana do renascimento.
->
-> 5º Havendo urgência em executar primeiro a capella mór, o projecto
-> deve prever a possibilidade de realizar desde já esta parte de modo
-> completo e definitivo (*grifo duplo nosso*).
-
 Acerca do corpo principal do edifício, o arquiteto menciona que buscou
 não modificar as fundações existentes, com algumas exceções que visavam
 a "argumentar e regularizar o corpo principal de egreja". Propõe capelas
@@ -461,7 +453,7 @@ laterais que "não são indispensaveis mas apenas convenientes, para
 movimentar as fachadas lateraes", abrindo dois vãos largos na capela-mor
 na parte integrada à nave principal com duas portas. Acrescenta que,
 "alem das pilastras indicadas juntas ás paredes lateraes e de fundo
-desta capella, previ\[u\] duas columnas isoladas V e X que dariam maior
+desta capella, previ[u] duas columnas isoladas V e X que dariam maior
 imponencia ao altar mór". Incluiu também outras duas capelas
 secundarias, com acesso por atrás dos altares, para "não deixar devassar
 a sacristia". Acrescenta, ainda, que a planta:
@@ -532,26 +524,6 @@ dos anexos, conforme segue:
 > Emfim, indiquei apenas [uma]{.underline} porta de entrada no anexo,
 > por não me pareceu conveniente a segunda porta dando entrada directa
 > do exterior para a sacristia.
-
-O arquiteto conclui a correspondência se disponibilizando para a
-realização das modificações necessárias e insistindo no seguinte
-questionamento sobre os alicerces: "quaes as partes que vão até a rocha;
-quaes as partes inaproveitaveis e que deverão ser reconstruidas, até a
-rocha ou não; qual a natureza do terreno no caso de não se descer até a
-rocha". Reitera que seria desejável que "atinjam a rocha" em todos os
-lugares ou, ao menos, nos pontos mais carregados (pilastras, torres,
-etc.) para evitar recalques e fendas. Reconhece também a garantia de
-maior racionalidade pela opção pela matéria-prima local, porém "o uso de
-cimento e do ferro póde permittir a redução do volume das alvenarias em
-proporção que talvez compense o excesso de custo destes materiaes". Para
-uma economia ainda mais expressiva, informa sobre a possibilidade da
-especificação de novas paredes mais finas no caso da confirmação da
-demolição interna geral, inclusive nas torres, "de modo que as
-pilastras, internas e externas, previstas no esboço, possam se apoiar
-nos alicerces actuaes". Para tanto, pergunta qual seria as dimensões
-correntes dos tijolos produzidos na região, informando-lhe sobre a
-existência de amostras maiores do que a enviada a ele anteriormente, as
-quais mediam 0^m^,19 x 0,09 x 0,06.
 
 No pós-escrito, informa que anexou à correspondência uma planta e uma
 secção da catedral em duas vias, entretanto, esses desenhos não puderam
