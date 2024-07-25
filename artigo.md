@@ -68,12 +68,9 @@ obra e a diocese --- quanto das dificuldades inerentes às preexistências
 materiais e afetivas vinculadas às ruínas da catedral anterior.
 
 Este texto apresenta, destarte, a situação da catedral parcialmente
-arruinada no seu sítio e na identidade cultural dos círculos sociais
-mais próximos à cúpula diocesana.
-Em seguida, situa o arquiteto Gastão Bahiana e sua produção em
-arquitetura religiosa como indicadores das aspirações artísticas e
-sociais da elite vilaboense.
-Por fim, detalha o processo de definição e construção da nova catedral,
+arruinada no seu sítio e a aproximação do arquiteto Gastão Bahiana
+ao projeto da nova igreja.
+Na continuação, detalha o processo de definição e construção da nova catedral,
 no trabalhoso diálogo entre as preexistências materiais e afetivas da
 antiga igreja e os envios do arquiteto, cujo conhecimento do sítio
 físico era incompleto.
@@ -82,9 +79,11 @@ Para tanto, o artigo reconstitui a encomenda e o desenvolvimento do projeto de
 Bahiana a partir de 1929, a sua implementação eivada de
 retrabalhos e interrupções, até a suspensão definitiva das obras em 1935.
 Ao longo desse processo, a importância financeira e afetiva das
-fundações preexistentes tornou-se um fator determinante para a modulação
+estruturas preexistentes passa de um fator determinante na encomenda para
+em seguida deixar em primeiro plano a modulação
 da estética Beaux-Arts defendida pelo arquiteto às proporções e
-dimensões de uma planta de origem colonial. Os discursos registrados em
+dimensões de uma planta de origem colonial.
+Os discursos registrados em
 correspondências e atas evidenciam as diferentes atitudes para com o
 patrimônio cultural, assim como o modo pelo qual a comunidade vilaboense
 oscilou entre a ânsia pelo prestígio de um arquiteto nacionalmente
@@ -424,14 +423,13 @@ rocha".
 
 ## Estilo e tradição no projeto definitivo ##
 
-Carta de 2 de julho de 1929:
-
-> 4º O estylo deve obedecer, de preferencia, ao typo tradicional
-> brasileiro, derivado da architectura italiana do renascimento.
->
-> 5º Havendo urgência em executar primeiro a capella mór, o projecto
-> deve prever a possibilidade de realizar desde já esta parte de modo
-> completo e definitivo (*grifo duplo nosso*).
+Descartada a conservação da materialidade histórica da catedral de
+Santana e fazendo-se pouco caso da tradição artesanal vilaboense,
+a alusão à tradição arquitetônica religiosa recai sobre
+um argumento mais abstrato e maleável: o estilo.
+Na mesma carta de 2 de julho, Bahiana defende que
+"o estylo deve obedecer, de preferencia, ao typo tradicional
+brasileiro, derivado da architectura italiana do renascimento."
 
 Em 1948, mais de uma década depois da interrupção
 das obras, o cônego Trindade Silva avalia o projeto como sendo um:
