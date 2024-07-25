@@ -1,0 +1,188 @@
+---
+references:
+- id: britto:2017mestra
+  author:
+    - family: Britto
+      given: Clovis Carvalho
+    - family: Rosa
+      given: Rafael Lino
+  citation-key: britto:2017mestra
+  event-place: Goiânia
+  issued:
+    - year: 2017
+  language: por
+  publisher-place: Goiânia
+  title: 'Mestra e guia: a catedral de Sant''Ana e as devoções de Darcília Amorim'
+  title-short: Mestra e guia
+  type: book
+
+- id: coelho:1999vila1
+  author:
+    - family: Coelho
+      given: Gustavo Neiva
+  call-number: F2566 .C74 2001
+  citation-key: coelho:1999vila1
+  collection-title: Guia dos bens imóveis tombados em Goiás
+  event-place: Goiânia
+  ISBN: 978-85-900316-3-5 978-85-900316-9-7
+  issued:
+    - year: 1999
+  language: por
+  publisher: Instituto dos Arquitetos do Brasil
+  publisher-place: Goiânia
+  source: Library of Congress ISBN
+  title: Vila Boa
+  type: book
+  volume: '1'
+
+- id: coelho:2001vila1
+  author:
+    - family: Coelho
+      given: Gustavo Neiva
+  call-number: F2566 .C74 2001
+  citation-key: coelho:2001vila1
+  collection-title: Guia dos bens imóveis tombados em Goiás
+  event-place: Goiânia
+  ISBN: 978-85-900316-3-5 978-85-900316-9-7
+  issued:
+    - year: 2001
+  language: por
+  publisher: Trilhas Urbanas
+  publisher-place: Goiânia
+  source: Library of Congress ISBN
+  title: Vila Boa
+  type: book
+  volume: '1'
+
+- id: luz:2012goyaz
+  abstract: >-
+    This work analyses the image of the town of Goiás in the 19th century,
+    establishing relations between the forms and the urban functions. It’s a
+    study that joins urban and social history and aims to find a genesis of the
+    town, from the representation of its image. So, the
+    legislative/administrative documents support this work and supply elements
+    that are able to identify which was the political conception that orientated
+    the construction and the posterior physical conservation of the urban space.
+    Such conservation consolidates the image of the colonial town. The analysis
+    emphasizes the preservation of the urban space that concerns permanence and
+    continuity in the landscape arrangement and in the vernacular architecture.
+    Furthermore, this study discusses the relationship between the image and the
+    social memory. So, it provides a focus for some buildings that symbolizes
+    the ideals that orientated the construction of the town, which are really
+    religious. Written and iconographical documents are demonstrated and
+    explored along the chapters. They are sources that confirm the urban
+    preservation process of the town during the 19th century. This process
+    followed the political instructions that reflected directly in the cultural
+    values of its image.
+  accessed:
+    - year: 2024
+      month: 7
+      day: 17
+  author:
+    - family: Luz
+      given: Giovana Emos
+      dropping-particle: da
+  citation-key: luz:2012goyaz
+  event-place: Goiânia
+  genre: Dissertação de mestrado em História
+  issued:
+    - year: 2012
+      month: 8
+      day: 24
+  language: por
+  number-of-pages: '135'
+  publisher: Universidade Federal de Goiás
+  publisher-place: Goiânia
+  source: repositorio.bc.ufg.br
+  title: >-
+    Goyaz, entre a forma e a função urbana: um estudo sobre a imagem da cidade
+    no século <span style="font-variant:all-small-caps"
+    smallcaps="smallcaps">XIX</span> (1845–1880)
+  title-short: Goyaz, entre a forma e a função urbana
+  type: thesis
+  URL: http://repositorio.bc.ufg.br/tede/handle/tede/7513
+
+- id: nova:1900
+  accessed:
+    - year: 2024
+      month: 7
+      day: 12
+  archive: Biblioteca Nacional (Brasil). Hemeroteca digital
+  archive_location: Publicações seriadas 4,017,04,10 - coleção 58(48-51; 1)
+  call-number: Publicações Seriadas - per025909
+  citation-key: nova:1900
+  container-title: Revista da Semana
+  issue: '18'
+  issued:
+    - year: 1900
+      month: 9
+      day: 16
+  language: por
+  page: '142'
+  publisher: Jornal do Brasil
+  publisher-place: Rio de Janeiro
+  source: Biblioteca Nacional (Brasil)
+  title: A nova matriz de Paquetá
+  type: article-magazine
+  URL: http://memoria.bn.gov.br/DocReader/025909_01/156
+  volume: I
+
+- id: pohl:1976viagem
+  author:
+    - family: Pohl
+      given: Johann Emanuel
+  citation-key: pohl:1976viagem
+  collection-title: Coleção Reconquista do Brasil
+  event-place: Belo Horizonte
+  issued:
+    - year: 1976
+  language: por
+  number-of-pages: '417'
+  publisher: Itatiaia
+  publisher-place: Belo Horizonte
+  source: Open WorldCat
+  title: Viagem no interior do Brasil
+  type: book
+
+- id: santos:1935monumento
+  accessed:
+    - year: 2024
+      month: 7
+      day: 12
+  archive: Biblioteca Nacional (Brasil). Hemeroteca digital
+  archive_location: Publicações seriadas PR-SPR 00136
+  author:
+    - family: Santos
+      given: Manoel Mesquita
+      dropping-particle: dos
+  citation-key: santos:1935monumento
+  container-title: O Jornal
+  edition: Anno XVII Numero especial commemorativo do centenario de Campos
+  event-place: Rio de Janeiro
+  issued:
+    - year: 1935
+      month: 5
+      day: 1
+  language: por
+  page: 3, 10
+  publisher-place: Rio de Janeiro
+  title: Um monumento architectonico que orgulha os fluminenses
+  type: article-newspaper
+  URL: http://memoria.bn.gov.br/DocReader/110523_03/23892
+
+- id: silva:1948lugares
+  author:
+    - family: Silva
+      given: José Trindade da Fonseca
+      dropping-particle: e
+  citation-key: silva:1948lugares
+  event-place: São Paulo
+  issued:
+    - year: 1948
+  language: por
+  publisher: Escolas Profissionais Salesianas
+  publisher-place: São Paulo
+  title: 'Lugares e pessoas: subsídios eclesiásticos para a história de Goiás'
+  title-short: Lugares e pessoas
+  type: book
+...
