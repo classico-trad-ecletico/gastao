@@ -47,134 +47,158 @@ still quite geographically isolated in that period.
 
 **Keywords:** Gastão Bahiana; sacred architecture; Goiás (city).
 
-# Introdução
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 > *A pedra é por excelência o material da arquitetura*.
 >
 > Gastão Bahiana (1926, p.168 *apud* FREITAS, 2011, p. 118).
 
-O presente artigo se deriva de uma pesquisa de doutorado que investigou
-três das principais igrejas existentes na cidade de Goiás, considerada
-Patrimônio da Humanidade em 2001. Trata-se da maior delas, a Catedral de
-Santana, cuja história se mescla com a própria trajetória da antiga
-capital goiana, por essa razão atraindo grande interesse. O período
+# Introdução #
+
+A catedral de Santana, na cidade de Goiás, é um monumento resultante de
+quatro campanhas construtivas, todas incompletas, intercaladas por
+hiatos temporais e desabamentos. A terceira dessas campanhas, baseada no
+projeto e nas orientações enviadas por correspondência pelo arquiteto
+Gastão Bahiana entre 1929 e 1934, determinou o essencial do atual
+aspecto exterior da igreja e grande parte da sua volumetria interior.
+As vicissitudes de tal projeto desenvolvido a distância decorreram tanto
+de mal-entendidos e interesses divergentes na comunicação entre as
+partes --- o arquiteto, o bispo e as comissões que supervisionavam a
+obra e a diocese --- quanto das dificuldades inerentes às preexistências
+materiais e afetivas vinculadas às ruínas da catedral anterior.
+
+Este texto apresenta, destarte, a situação da catedral parcialmente
+arruinada no seu sítio e a aproximação do arquiteto Gastão Bahiana
+ao projeto da nova igreja.
+Na continuação, detalha o processo de definição e construção da nova catedral,
+no trabalhoso diálogo entre as preexistências materiais e afetivas da
+antiga igreja e os envios do arquiteto, cujo conhecimento do sítio
+físico era incompleto.
+
+Para tanto, o artigo reconstitui a encomenda e o desenvolvimento do projeto de
+Bahiana a partir de 1929, a sua implementação eivada de
+retrabalhos e interrupções, até a suspensão definitiva das obras em 1935.
+Ao longo desse processo, a importância financeira e afetiva das
+estruturas preexistentes passa de um fator determinante na encomenda para
+em seguida deixar em primeiro plano a modulação
+da estética Beaux-Arts defendida pelo arquiteto às proporções e
+dimensões de uma planta de origem colonial.
+Os discursos registrados em
+correspondências e atas evidenciam as diferentes atitudes para com o
+patrimônio cultural, assim como o modo pelo qual a comunidade vilaboense
+oscilou entre a ânsia pelo prestígio de um arquiteto nacionalmente
+reconhecido e o apego à memória da antiga catedral.
+
+Este trabalho deriva de uma pesquisa de doutorado que investigou
+três das principais igrejas existentes na cidade de Goiás, inscrita como
+Patrimônio da Humanidade em 2001. O período
 analisado incorporada os últimos anos da cidade como sede administrativa
-estadual, fato que se reflete na contratação de Gastão Bahiana como
-projetista da edificação que substituiria o antigo edifício remanescente
-do período colonial em ruinas há quase 50 anos. A documentação histórica
-obtida viabilizou um registro histórico aprofundado de todo o contexto e
-processo de projetação da edificação, que não chegou a ser concluída
-como previsto inicialmente. Destaca-se o papel fundamental das
+estadual. A documentação histórica
+obtida viabilizou um registro histórico de todo o contexto e
+processo de projetação da edificação. Destaca-se o papel fundamental das
 detalhadas cartas elaboradas pelo projetista, que foram os principais
 instrumentos de informação complementar aos desenhos técnicos
 elaborados.
-
-# Biografia #
-
-Inicia-se, então, com um breve relato biográfico e da produção
-arquitetônica do autor, para permitir uma melhor compreensão sobre o
-período e cenário de elaboração do projeto. Gastão Renato da Cunha
-Bahiana (1874-1959) foi um engenheiro-arquiteto nascido em Teresópolis -
-RJ, filho do também engenheiro Antônio da Cunha Bahiana; formou-se em
-1893, aos 19 anos de idade, na *École des Hautes Études Industrielles de
-Lille* na França, assim como o pai. Foi considerado um "prodígio" por
-esse feito, tornando-se posteriormente conhecido como um "dos
-precursores do ensino de arquitetura e da profissão de arquiteto no
-Brasil" (*O Globo*, 27.jan.1992), destacando-se também por fundar o
-Instituto dos Arquitetos do Brasil (IAB) em 1921, sendo eleito seu
-primeiro presidente. Após graduar-se e retornar ao Brasil, começa a
-trabalhar na prefeitura do Rio de Janeiro-RJ em 1894, transferindo-se
-para a Companhia de Navegação Costeira e para o Mosteiro de São Bento
-algum tempo depois.
-
-<Figura 1> <Figura 2>
-
-Já em 1905, é admitido como professor de Geometria Descritiva e
-Perspectiva na Escola Nacional de Belas Artes (ENBA) através de um
-concurso, posto para o qual já havia concorrido ainda em 1897 e do qual
-se orgulhava muito, já que lhe proporcionava contato com vários
-intelectuais, artistas e políticos daquele início de século. Bahiana
-chegou a trabalhar também no renomado escritório de Heitor de Mello
-entre 1908 e 1913, quando passa a atuar sozinho, desenvolvendo uma
-profícua e diversificada carreira no Rio de Janeiro até o fim da vida.
-Era considerado um "purista, avesso ao estilo neocolonial ou
-modernismo", sendo muito lembrado pela contenda ocorrida com os alunos
-da ENBA durante a gestão de Lucio Costa como diretor da instituição em
-1931[^2]. Foi, ainda, redator da revista *Arquitetura no Brasil*,
-publicada na década de 1920, destacando-se por ser a primeira do gênero
-no Brasil, que incentivava a "remodelação" das cidades brasileiras e o
-desenvolvimento agroindustrial e da viação no país.
-
-Parte do portifólio do arquiteto foi digitalizado e encontra-se
-disponível no acervo do Núcleo de Pesquisa e Documentação da Faculdade
+O portfólio do arquiteto foi consultado em formato digital junto
+ao acervo do Núcleo de Pesquisa e Documentação da Faculdade
 de Arquitetura e Urbanismo da Universidade Federal do Rio de Janeiro
-(NPD - UFRJ)[^3], que ainda está em construção, porém contempla boa
-parte de sua obra, inclusive seu trabalho de graduação de 1893 (*Project
-de Chaudiere*). Entre os vários projetos que desenvolveu, destacam-se as
-diversas igrejas espalhadas por todo o país, a começar pela Matriz de
-Paquetá, feita nos primórdios de sua carreira, ainda em 1899, quando
-substitui seu irmão Henrique Bahiana, também professor da ENBA, falecido
-no ano anterior, como informa a *Revista da Semana*, 16.set.1900.
-Ressalta-se também os vários estudos e projetos relativos: à Igreja
+(NPD--UFRJ)[^3].
+
+# Primícias #
+
+## A catedral de Santana na cidade de Goiás ##
+
+A antiga matriz de Santana em taipa de pilão fora erguida a partir de
+1743, substituindo, como era de praxe nas vilas de mineração, uma antiga
+capela rústica. No famoso *Prospecto de Vila Boa* de 1751
+([@fig:prospecto]), a volumetria externa da igreja já aparecia
+consolidada.
+Entretanto, a edificação estava marcada por defeitos construtivos,
+resultando num primeiro desabamento da cobertura em 1758.
+Repetidos desabamentos e reconstruções ocorreram ao longo do
+século XIX até que a então catedral acabasse por arruinar-se
+quase por inteiro em 1874 [@luz:2012goyaz; @britto:2017mestra].
+Os últimos esforços de recuperação da estrutura foram abandonados
+definitivamente em 1878 [@luz:2012goyaz].
+
+![*Prospecto de Villa Boa tomada da parte do Norte para o Sul no anno de 1751*, com destaque para as fachadas frontal e lateral direita da Catedral de Santana no detalhe abaixo. Acervo da Casa da Ínsua](){#fig:prospecto}
+
+A intenção de reconstruir a catedral era desde então um anseio da
+comunidade local, mas os esforços efetivos para tanto só se
+intensificaram a partir da segunda década do século XX.
+A primeira ata da Comissão Central das Obras da Cathedral de Sant'Ana,
+em 1.º de abril de 1929, indicava um saldo positivo de 6:682\$549 réis
+resultante das arrecadações feitas em prol da reconstrução do edifício
+entre 1913 e 1925.
+
+Tratava-se de um esforço socializado e até institucionalizado:
+a Comissão mencionava, na ata da sua segunda reunião em 3 de abril,
+o auxílio oferecido pelo governo estadual, que fora apontado por
+D. Emmanuel como propulsor da retomada dos trabalhos, destacando ainda a
+oferta de materiais de construção pelo senador Joaquim de Bastos.
+Além disso, a mesma ata instava "todos os engenheiros da Capital [a]
+colaborarem para melhor inspecção dos trabalhos".
+Para além da arrecadação principal e da atuação dos engenheiros
+dentro e fora da Comissão, a ata da terceira reunião a 6 de abril
+informava o chamado de contribuições em materiais de construção e em
+mão de obra de operários,
+além de uma nova campanha de arrecadação por parte da comissão feminina.
+Por fim, a 13 de abril, a Comissão notava a divulgação na imprensa de
+pedidos de abertura de subscrições para coleta de donativos nos jornais.
+
+O avanço na coleta de fundos, materiais e serviços chegara em 1929,
+portanto, num ponto em que se fazia necessária a definição do projeto
+arquitetônico da nova catedral.
+Mais do que isso, porém, a definição do nome do arquiteto havia de
+fazer parte do processo de angariar recursos, entusiasmo e distinção
+para a obra.
+O convite a Gastão Bahiana para desenvolver o projeto da nova catedral
+de Santana certamente levou em conta o prestígio que o nome do arquiteto
+traria para a diocese de Goiás. Vê-se isso pela insistência do bispo,
+D. Emmanuel Gomes de Oliveira, de destacar o nome de Gastão Bahiana na
+divulgação da obra. Isso pode ser comprovado pela reprodução
+dessa informação na maior parte da bibliografia disponível sobre o
+período, a começar pelo Cônego Trindade e Silva [@silva:1948lugares].
+De fato, a reputação de Bahiana não era sem motivo.
+
+## Arquitetura religiosa de Gastão Bahiana ##
+
+O arquiteto Gastão Bahiana (1874--1959) produziu, ao longo de sua
+carreira, vários projetos de igrejas, construídos ou não.
+Sua primeira igreja foi a matriz neogótica de Paquetá, concluída em 1899
+[@nova:1900]. Seguiram-se vários estudos e projetos relativos à igreja
 Nossa Senhora da Paz em Ipanema, inaugurada em 1921; às matrizes
-cariocas de Santa Teresa (1916), feita em concreto armado (contradizendo
-a epígrafe), e de Nossa Senhora de Copacabana (1908), que foi demolida
-após a morte do arquiteto; à Igreja para a Cidade de Corumbá de 1927;
+cariocas de Santa Teresa (1916), feita em concreto armado, e de Nossa
+Senhora de Copacabana (1908), já demolida;
+à Igreja para a Cidade de Corumbá de 1927;
 aos altares de uma capela-mor e um transepto não identificados de 1932;
 à "Igreja para a Cidade de Manáos" de 1934; ao "Projeto para a Igreja de
-Sant\'Anna" também no Rio de Janeiro de 1939; à "Cathedral de
+Sant'Anna" também no Rio de Janeiro de 1939; à "Cathedral de
 Porto-Velho" de 1941; a uma fachada de uma igreja, possivelmente, em
-Niterói-RJ de 1944; e a outras obras sem identificação que chegam até
-1950, todas trazendo em comum seus reconhecidos traços puristas,
-historicistas e classicizantes[^4].
+Niterói de 1944; e a outras obras sem identificação que chegam até
+1950, todas trazendo em comum seus reconhecidos traços de simplicidade
+clássica com cariz Beaux-Arts[^4].
 
-<Figura 3> <Figura 4>
+<Figuras>
 
-# Da catedral de Campos à de Goiás #
-
-Entretanto, é a Catedral de Campos dos Goytacazes que mais interessa à
-presente pesquisa, por apresentar uma expressiva semelhança com a
-primeira versão da Catedral de Santana proposta pelo arquiteto, sendo
-inclusive utilizada a mesma perspectiva para a divulgação de ambas as
-obras, como pode ser visto nas imagens abaixo. A parca documentação
-encontrada indica que ambos os projetos podem ter sido desenvolvidos
-concomitantemente, como demonstram os desenhos técnicos referentes à
-obra de Campos, elaborados entre 1928 e 1930, e sobre a matriz de Goiás,
-constando o ano de 1929.
-
-Uma edição especial do carioca *O Jornal* (1.mai.1935) noticia a
-inauguração da Catedral Basílica Menor do Santíssimo Salvador de Campos
-dos Goytacazes, informando que a ideia de sua construção começa com a
-chegada do primeiro bispo à cidade em 1927. Ele logo entra em contato
-com Bahiana, tendo como referências as igrejas projetadas pelo arquiteto
-no Rio de Janeiro, solicitando-lhe os primeiros estudos para a futura
-catedral da cidade. Portanto, é provável que esse projeto, de fato,
-tenha antecedido ao de Goiás, considerando-se que existem desenhos de
-1928 relativos a ele. Decide-se, então, pela demolição quase
-integralmente da antiga matriz do período colonial, permanecendo apenas
+Um projeto bastante significativo para este estudo é o da catedral de
+Campos dos Goytacazes. Apenas instalado o seu primeiro bispo em 1927,
+este encomendou a Bahiana estudos para a construção da igreja
+[@santos:1935monumento], os quais tiveram início no ano seguinte.
+Como a antiga igreja matriz colonial ainda estivesse de pé, o novo
+projeto implicou a demolição da estrutura, conservando-se apenas
 "os alicerces e as velhas torres até á altura de cerca de vinte metros,
 afim de se perpetuar a tradição do vetusto templo que ocupava,
-exactamente o mesmo reconto do atual" (idem). A citação é válida para
-demostrar os vários paralelos entre ambos os casos e para reforçar essa
-experiência anterior do projetista com casos semelhantes ao da catedral
-goiana. Suas obras foram iniciadas também em 1929, sendo concluídas em
-maio de 1935, após paralisações provocadas pela Revolução de 1930.
+exactamente o mesmo reconto do atual" [@santos:1935monumento, 3].
+A construção se iniciou em 1929 e a catedral foi inaugurada em 1935.
 
-<Figura 5> <Figura 6>
+<Figuras>
 
-Esse breve panorama objetiva contribuir para a compreensão do contexto
-profissional do arquiteto e das escolhas projetuais que adotava,
-sobretudo, nos casos das catedrais de Campos e de Goiás, que foram
-construídas a partir dos remanescentes de edifícios oriundos do período
-colonial, cujos vestígios foram completamente apagados nas novas
-construções. Já o aprofundamento sobre a carreira e a obra de Gastão
-Bahiana visam a um melhor entendimento mais do espírito da época em que
-foi elaborado o projeto da matriz de Santana. A apresentação da
-edificação acima também busca apresentar referências de como esta
-poderia ter sido, caso o desenho apresentado e submetido à construção na
-década de 1930 fosse finalizado.
-
-Apesar das semelhanças aparentes, ao se comparar ambos os projetos, as
+A comparação com a catedral de Campos é especialmente relevante para o
+estudo da catedral de Goiás pois ambos os projetos foram desenvolvidos
+no escritório de Bahiana na mesma época,
+a distância e sobre os alicerces das igrejas precedentes.
+Apesar das semelhanças aparentes, as
 diferenças ficam bastante claras, apesar de os paralelos só poderem ser
 feitos a partir das fechadas laterais, já que não há plantas disponíveis
 de Campos e não há cortes ou vistas frontais de Goiás. Outra conclusão
@@ -185,22 +209,230 @@ fundos, apresentando também uma cúpula bem menor. As principais
 correspondências estão no partido horizontal bastante alongado, contando
 com fortes elementos classicizantes, como as colunatas e os frontões,
 que coabitam com cúpulas e janelas renascentistas, além das rosáceas
-simplificadas. Entretanto, é fundamental ressaltar que foram localizadas
-duas plantas para a edificação goiana, como explanado a seguir, sendo a
-presente comparação realizada com a segunda delas, referente à fachada
-mencionada acima, pois não se obteve complementos relativos à primeira
-delas.
+simplificadas.
 
-# Gastão Bahiana e a Catedral de Santana na cidade de Goiás
+# A relação com os vestígios da catedral de Santana #
 
-Retoma-se, então, a análise do projeto da Catedral de Santana,
-destacando que a estratégia escolhida pelo bispo goiano daquele período,
-D. Emmanuel Gomes de Oliveira, de destacar o nome de Gastão Bahiana na
-divulgação da obra, fato também observado em alguns de seus outros
-trabalhos, teve grande êxito. Isso pode ser comprovado pela reprodução
-dessa informação na maior parte da bibliografia disponível sobre o
-período, a começar por Cônego Trindade Silva (1948, p. 238), que reforça
-seu
+## Primeiros contatos com o arquiteto ##
+
+As fontes remanescentes da comunicação entre o bispo e o arquiteto
+consistem em cinco cartas datadas de 1929 a 1934, alguns telegramas,
+desenhos, fotografias e objetos originalmente pertencentes aos acervos
+do bispo D. Emmanuel e do cônego Trindade Silva, atualmente
+depositados no IPEHBC da PUC--GO.
+Essas fontes registram, entre outras vicissitudes do projeto da
+catedral de Goiás, o olhar dos agentes para as preexistências
+das ruínas e a concepção que eles tinham da identidade cultural
+a ser transmitida por meio do estilo arquitetônico.
+
+A primeira dessas correspondências é datada de abril de 1929,
+e contém informações gerais sobre a catedral, uma planta de
+sua configuração naquele momento e fotografias para subsidiar a
+elaboração do novo projeto. Entretanto, o arquiteto logo informa via
+telegrama que "a planta recebida é insufficiente" devido à ausência
+de escalas ou medidas no desenho.
+Mesmo com as informações fragmentárias recebidas, porém,
+Bahiana responde à carta oferecendo três propostas projetuais
+ao prelado.
+
+Ao final do mês, o bispo anuncia sua viagem ao Rio de Janeiro para
+tratar dos "assumptos referentes á planta definitiva da Cathedral e de
+adquirir materiaes e de conseguir operarios para os trabalhos da mesma
+cathedral".
+Fica claro, pela ata da Comissão de 1.º de junho, que as tratativas
+de D. Emmanuel com Bahiana visam em grande medida a adquirir um trunfo
+de relações públicas para a obra da catedral de Goiás.
+A divulgação da obra na imprensa nacional, por iniciativa do bispo,
+é inclusive feita utilizando-se uma perspectiva da catedral de
+Campos, mostrando que a publicidade depende mais do nome do arquiteto
+do que da aparência específica da catedral de Goiás.
+
+Porém, o desenvolvimento desse projeto ainda esbarra,
+no início de junho, não apenas na falta de clareza quanto ao
+levantamento das condições existentes, mas também na multiplicação
+de demandas por parte do contratante, por vezes contraditórias,
+quanto ao programa e ao aproveitamento das estruturas remanescentes.
+Entretanto, a indefinição projetual não impede que a Comissão já se
+tenha adiantado desde finais de abril na obtenção de materiais
+e mão de obra (ata de 20 de abril de 1929),
+e até mesmo na realização de trabalhos preparatórios.
+Nisso percebe-se o protagonismo dos engenheiros locais Luiz Confucio
+e Eufrasino Alves Branco.
+
+A 8 de junho, a ata da reunião da Comissão Central registra que,
+mesmo sem que o projeto arquitetônico tenha sido sequer iniciado,
+já se trabalha no
+reforço dos alicerces, aparentemente no mesmo alinhamento
+das fundações originais: "por terem sido demolidos os alicerces que eram
+insufficientes e defeituosos e as paredes respectivas desaprumadas".
+Essa situação resultará em um grande desafio para o arquiteto futuramente,
+sobretudo, no trabalho de conciliação dos serviços em andamento em
+paralelo com a execução de seus desenhos, situação agravada pelos
+constantes problemas encontrados na obra e pela falta de informação
+resultante de sua impossibilidade de visitar o local.
+
+
+## Materialidade da catedral em 1929 ##
+
+Reiniciada a campanha para reconstruir a catedral,
+não se procede a qualquer remoção de ruínas remanescentes no sítio.
+Em conformidade com um entendimento mais tradicional da utilidade
+dos espólios e do reaproveitamento de alicerces,
+o novo projeto arquitetônico é que definirá a possibilidade de
+reutilização da materialidade existente.
+
+Desde o final de abril de 1929, Gastão Bahiana comunica
+o bispo por telegrama de que "é necessario demolir totalmente as paredes
+internas do corpo da egreja, entre a torre e a capella-mór", ou seja,
+aquelas que estavam arruinadas desde 1874.
+Por outro lado, em carta datada do mesmo mês,
+o arquiteto solicita um levantamento preciso das "paredes existentes",
+com ênfase para as dimensões dos seus alicerces e para
+a caracterização dos sistemas construtivos empregados,
+indicando a oportunidade de se conservar os elementos existentes
+"de cantaria lavrada".
+
+Na mesma carta, Bahiana sugere preliminarmente "que será conveniente,
+por economia, aproveitar as paredes da capella-mór, se as suas
+condições de conservação o permittirem".
+Não obstante, prefere não aproveitar os alicerces das paredes
+arruinadas, dando a entender que seriam inadequados para a estabilidade
+da nova construção, e especialmente da cobertura da nave.
+A questão do aproveitamento de materiais também comparece na ata da
+reunião da Comissão Central a 20 de abril.
+Os engenheiros Confucio e Branco sinalizam a "conveniencia de se
+aproveitarem" tijolos espoliados de outras edificações,
+desde que conformes ao calibre mais usual de então,
+de 27 × 13 × 7 centímetros.
+
+<Figura 7>
+
+<Figura 8>
+
+Entretanto,
+os problemas materiais com os remanescentes da antiga catedral
+evidenciam a relação da diocese e da comunidade local com o seu
+patrimônio material.
+Assim como no caso da catedral de Campos,
+o aproveitamento dos alicerces e de parte das paredes é visto
+como um expediente econômico, mas também como indicador da
+continuidade entre o edifício antigo e o novo.
+
+Um rascunho de carta do bispo, em resposta à
+correspondência do arquiteto datada de 2 de junho de 1929,
+frustra, porém, a expectativa de aproveitamento das partes não arruinadas.
+Inicia informando a necessidade "absoluta de demolição de todas as
+paredes em torno da Capella-mór, por inconsistentes, desaprumadas e
+[...] sem alicerces".
+
+No texto de D. Emmanuel de junho de 1929 mencionado acima,
+já comparece o conceito mais moderno de que a materialidade existente
+é um estorvo ao desenvolvimento do projeto.
+Segundo o bispo, a demolição não apenas das paredes da nave, mas
+também "de um terço das paredes da Capella-mór para se dar mais corpo a
+Egreja e tambem assim facilitaria lhe o trabalho de plantas e
+simplificação do telhado", destacando que "o povo, em geral, não se
+impressionou com as demolições já levadas a [...] termo".
+Reciprocamente, as demandas do prelado no sentido de manter elementos
+existentes parecem se reportar sobretudo a conveniências utilitárias.
+Por exemplo, conservar as portas laterais da capela-mor para facilitar o
+acesso às sacristias e à capela do Santíssimo Sacramento, assim como
+aquelas previstas no altar-mor e nos altares laterais, de modo a
+permitir a entrada e a comunicação com a sacristia sem atravessar toda a
+igreja.
+
+
+# Caráter do projeto #
+
+## Fim do respeito à materialidade original ##
+
+Os relatos de junho de 1929 são as últimas ocasiões em que se levanta
+a hipótese de conservar a materialidade histórica da catedral de
+Santana.
+Mesmo a solicitação do bispo de que sejam preservados
+os dois altares laterais existentes termina por ser abandonada.
+Na continuação da correspondência entre o arquiteto e D. Emmanuel,
+é questão de adequar as demandas programáticas estabelecidas
+pelo bispo naquele mesmo mês de junho
+às restrições espaciais e financeiras da obra da catedral.
+
+Ainda assim, Bahiana continua a se levantar o argumento de que é
+importante respeitar a edificação original, porém indicando que
+não se trata apenas de uma questão memorial, mas também prática.
+Em nova e detalhada carta datada de 2 de julho de 1929,
+explicando o "esboço do projecto" proposto até aquele momento e
+declarando sua grande dificuldade em "fixar um programa definitivo".
+Isso se deve à ausência de informações básicas, sobretudo, quanto à
+posição dos alicerces ao redor da capela-mor, sem mencionar as más
+condições dos remanescentes da edificação existente, como paredes e
+fundações.
+Contudo, no segundo dos cinco pontos da carta,
+reivindica o duplo laço da "tradição" e da "solidez" como
+motivos para se manter o alinhamento das prumadas originais,
+mesmo quando estas tiverem sido inteiramente demolidas:
+
+> 2º Mesmo no caso de se demolir toda a alvenaria existente, inclusive
+> alicerces, convem projectar os muros da construcção nova tanto quanto
+> possivel, na mesma posição actual, não só por respeito á
+> tradição, como para poder aproveitar qualquer elemento de reconhecida
+> solidez.
+
+A correspondência de junho e julho de 1929 explicita como a
+materialidade preexistente era um suporte dispensável
+da memória patrimonial quanto à história da catedral de Santana.
+O bispo considera essa materialidade um estorvo à flexibilidade de
+se definir um novo projeto.
+Já o arquiteto levanta o argumento da materialidade apenas no âmbito de
+um problema mais amplo que envolve a restrição de espaço disponível
+no sítio físico da obra e a economia de recursos.
+
+Ao longo da mesma carta de 2 de julho, o argumento da tradição local
+desliza paulatinamente da materialidade preexistente para o trabalho
+artesanal, mas sempre girando em torno da questão da economicidade.
+Chega, então, ao tema dos tijolos, perguntando sobre as dimensões
+correntes dos tijolos produzidos na região.
+Relata a
+existência de amostras maiores do que a enviada a ele anteriormente, as
+quais mediam 19 × 9 × 6 centímetros, diferentemente, portanto,
+do módulo especificado pelos engenheiros da Comissão Central.
+O módulo da alvenaria impacta, diz ele, na possibilidade de
+especificação de novas paredes mais finas no caso da confirmação da
+demolição interna geral, inclusive nas torres, "de modo que as
+pilastras, internas e externas, previstas no esboço, possam se apoiar
+nos alicerces actuaes".
+
+Mesmo respeitando o trabalho artesanal em alvenaria, com
+maior racionalidade pela opção pela matéria-prima local,
+indica que essa preferência pela tradição é relativa e
+fundamentalmente de natureza econômica, pois "o uso de
+cimento e do ferro póde permittir a redução do volume das alvenarias em
+proporção que talvez compense o excesso de custo destes materiaes".
+O pouco crédito que o arquiteto dá à qualidade técnica vilaboense fica
+patente quando argumenta que "as linhas architectonicas devem ser
+simples, afim de se poder executar toda a construcção com operarios
+da localidade."
+
+Bahiana conclui a missiva disponibilizando-se para a
+realização das modificações necessárias e insistindo no
+questionamento sobre os alicerces:
+"quaes as partes que vão até a rocha;
+quaes as partes inaproveitaveis e que deverão ser reconstruidas, até a
+rocha ou não; qual a natureza do terreno no caso de não se descer até a
+rocha".
+
+
+## Estilo e tradição no projeto definitivo ##
+
+Descartada a conservação da materialidade histórica da catedral de
+Santana e fazendo-se pouco caso da tradição artesanal vilaboense,
+a alusão à tradição arquitetônica religiosa recai sobre
+um argumento mais abstrato e maleável: o estilo.
+Na mesma carta de 2 de julho, Bahiana defende que
+"o estylo deve obedecer, de preferencia, ao typo tradicional
+brasileiro, derivado da architectura italiana do renascimento."
+
+Em 1948, mais de uma década depois da interrupção
+das obras, o cônego Trindade Silva avalia o projeto como sendo um:
 
 > Trabalho de grande valor que permitiu a continuação das obras com o
 > aproveitamento da parte já construída, dando-lhe um estilo de senso
@@ -210,210 +442,7 @@ seu
 > recebeu o respectivo telhado para serem celebradas, como o foram, em
 > dias festivos, missas campais, dada a amplidão da área do corpo da
 > Igreja, já então com suas paredes graníticas laterais erguidas a boa
-> altura, em toda periferia do templo.
-
-A primeira ata da *Comissão Central das Obras da Cathedral de Sant'Ana*
-(1º.abr.1929) informa que havia um saldo positivo de 6:682\$549 réis
-resultante das arrecadações feitas em prol da reconstrução do edifício
-entre 1913 e 1925, o que indicaria que as campanhas com essa finalidade
-permaneceram após a morte de D. Prudêncio em 1921. O grupo designado
-para a direção das obras era composto por Francisco Ferreira, Joaquim de
-Bastos e Maximiniano Mendes, "devendo todos os engenheiros da Capital
-colaborarem para melhor inspecção dos trabalhos", como registra a ata da
-segunda reunião da mesma comissão (3.abr.1929). Este documento ainda
-menciona o auxílio oferecido pelo governo estadual, que foi apontado por
-D. Emmanuel como propulsor da retomada dos trabalhos, destacando ainda a
-oferta de materiais de construção pelo senador Joaquim de Bastos. No
-encontro seguinte (6.abr.1929), informa-se que os materiais de
-construção (pedras e madeiramento para os andaimes) e a mão-de-obra
-(composta pelos ex-operários do Ginásio Anchieta de Bonfim e por um novo
-engenheiro, Eufrosino Alves Branco) já haviam sido convidados. Diz
-também que a comissão feminina tinha iniciado as arrecadações. Por fim,
-ressaltam a divulgação da iniciativa na imprensa (13.abr.1929), com
-pedidos de abertura de subscrições para coleta de donativos nos jornais.
-
-Em abril de 1929 ocorre a primeira comunicação formal entre D. Emmanuel
-e Gastão Bahiana, através de uma carta[^5] enviada pelo bispo ao
-arquiteto, contendo informações gerais sobre a catedral, uma planta de
-sua configuração naquele momento e fotografias para subsidiar a
-elaboração do novo projeto. Entretanto, o projetista logo informa via
-telegrama que "a planta recebida é insufficiente, é necessario demolir
-totalmente as paredes internas do corpo da egreja, entre a torre e a
-capella-mór". Na sequência, ele justifica a solicitação devido à
-ausência de escala no desenho encaminhado, assim como, de "medidas
-essenciais para fazer se ideia exacta do que lá existe". A partir das
-informações fragmentárias recebidas, Bahiana responde a carta oferecendo
-três propostas projetuais ao prelado como se vê no trecho a seguir, e
-reiterando que não poderia começar o trabalho sem uma "planta exacta das
-paredes existentes, com indicação farta das medidas" (distâncias,
-larguras, aberturas, espessuras, pilastras, sapatas dos alicerces e
-pedestais das pilastras das torres[^6]):
-
-> 1º que haverá toda a vantagem em substituir as paredes do corpo da
-> egreja por duas ordens de columnas ou pilastras; 2º que será
-> conveniente, por economia, aproveitar as paredes da capella-mór, se as
-> suas condições de conservação o permittirem; 3º que, n\'este caso, as
-> columnas do corpo principal deveriam ser collocadas de preferencia,
-> não sobre os alicerces das paredes demolidas, mas no alinhamento das
-> paredes da capella-mór, de modo que a nave principal passe a ter a
-> mesma largura (12 m) da capella-mór, dando assim apparencia maior ao
-> internor da egreja, e simplificando a construcção, principalmente o
-> telhado.
-
-<Figura 7>
-
-Na ata da Comissão Central de 20 de abril de 1929, D. Emmanuel comenta o
-conteúdo dessa correspondência, esclarecendo que a planta a ser
-substituída havia sido "levantada gratuitamente pelo Sen. D. Joaquim
-Jubé Júnior", portanto, sem os devidos conhecimentos técnicos para tal.
-Destaca também que os engenheiros Luiz Confucio e Eufrasino Alves Branco
-aconselharam "que adoptasse na construcção tijolos de um só calibre que
-deverá ser de 0^m^, 27 x 0^m^, 13 x 0^m^, 7". Falam também da
-"conveniencia de se aproveitarem" de outras edificações, o que parecia
-ser uma prática antiga e comum, já que foi observada em vários momentos
-ao longo desta e de intervenções anteriores feitas no edifício.
-
-Na semana seguinte, o bispo anuncia sua viagem ao Rio de Janeiro para
-tratar dos "assumptos referentes á planta definitiva da Cathedral e de
-adquirir materiaes e de conseguir operarios para os trabalhos da mesma
-cathedral". Já a ata da Comissão Central de 1º de junho de 1929 menciona
-o pedido de Bahiana por "outras medidas que julga necessarias" para o
-projeto, registrado que os desenhos solicitados seriam enviados "no
-próximo Correio". O bispo comenta também sobre sua recente viagem à
-capital federal, dando destaque à realização de "varias Conferencias com
-o Engenheiro Architecto sobre a planta definitiva da Cathedral", à
-compra de materiais de construção e à contratação de operários. Fala,
-ainda, da divulgação da obra feita na imprensa nacional, que incluiu a
-publicação da "planta da catedral", referindo-se, na realidade, à
-perspectiva da catedral de Campos, reproduzida acima, como se fosse a de
-Goiás.
-
-<Figura 8>
-
-Foi localizado também um rascunho da carta[^7] escrita pelo bispo em
-resposta à correspondência de Gastão Bahiana de 2 de junho de 1929 e que
-contém importantes dados sobre o estado da edificação naquele momento.
-Inicia informando a necessidade "absoluta de demolição de todas as
-paredes em torno da Capella-mór, por inconsistentes, desaprumadas e
-\[\...\] sem alicerces", sendo incapazes de suportar cargas, o que
-acreditava ele facilitar a realização do novo projeto. O documento segue
-estruturado em 16 tópicos argumentativos acerca das proposições
-realizadas incialmente, entretanto, a legibilidade dele está muito
-comprometida, não sendo possível sua compreensão integral. Porém, serão
-destacados os pontos principais:
-
--   Envio de uma **nova planta** com a indicação clara das "paredes e
-    columnas parcialmente ou totalmente demolidos".
-
--   Concordância com a **demolição** "de um terço das paredes da
-    Capella-mór para se dar mais corpo a Egreja e tambem assim
-    facilitaria lhe o trabalho de plantas e simplificação do telhado",
-    destacando que "o povo, em geral, não se impressionou c/ as
-    demolições já levadas a (\...) termo". Isso poderia demostrar o grau
-    de confiança da população local nos trabalhos empreendidos, já que
-    aparentemente não houve manifestação contrária ao ato.
-
--   Intenção de se manter os dois **altares laterais** das naves
-    respectivas ao fundo destas (no mesmo alinhamento do altar-mor).
-
--   Preocupação com a manutenção de **portas** laterais na capela-mor,
-    para facilitar o acesso às sacristias e à capela do Santíssimo
-    Sacramento, assim como, com a permanência daquelas previstas no
-    altar-mor e nos altares laterais, de modo a permitir a entrada e a
-    comunicação com a sacristia sem atravessar toda a igreja (solicita
-    também duas salas grandes iguais de cada lado da capela-mor). Quanto
-    às portas externas das sacristias, indica que "poderão ocupar as
-    mesmas posições da planta anterior".
-
--   Parece discordar da sugestão apresentada para a construção de uma
-    **cripta** no subsolo, por este ser "rochoso granítico
-    \[*ilegível*\] com agua abundante", informação que procede,
-    recordando-se das queixas observadas no século anterior, que levaram
-    à proibição dos sepultamentos dentro das dependências do edifício.
-
--   Informe terem indicado a posição desejada para as **sacristias** a
-    lápis no desenho encaminhado, sugerindo um segundo pavimento sobre
-    elas para abrigar a Cúria diocesana e comentando, ainda, sobre seus
-    acessos.
-
--   Na sequência, menciona "um total de 57 m de **extensão** a nossa
-    catedral".
-
--   Lembra da necessidade de "bastante **luz e ar** na parede reservada
-    aos sarcophagos \[?\] naturalmente por meio de [vitraux]{.underline}
-    com partes moveis". Essa preocupação se estende para os alteres
-    laterais, que deveriam ficar "na direcção das janelas a serem
-    fechadas aproveitando-se, como nichos, parte dos vãos das mesmas,
-    internamente; formando-se em cada uma dellas uma rosácea \[\...\],
-    de soberbos vitraux com muita luz e muito ar para a situação de
-    baixa (topographicamente) da n/ Cathedral".
-
--   Nesse ponto, chama a atenção o seguinte questionamento: "Envio-lhe a
-    planta feita pelo architecto **Elisário Bahiana** de que lhe havia
-    fallado. Na linha C -- D em lugar dos altares não estariam bem duas
-    portas mais para a Cathedral?" Este desenho seria o mesmo que
-    designa como "planta anterior" acima? Ou poderia ainda ser o projeto
-    encomendado por D. Prudêncio no início do século a um "engenheiro
-    carioca"? Considerando-se que Elisário, sobrinho de Gastão, já
-    atuava profissionalmente nesse período, mesmo ainda não tendo
-    concluído seus estudos na ENBA. Ressalva-se que não foram
-    encontrados documentos que respondam a essas perguntas, porém elas
-    oferecem novas possibilidades na busca pela identificação do autor
-    do projeto utilizado a partir de 1909, do qual só há registro da
-    fachada apresentada no subitem anterior.
-
--   À continuação, D. Emmanuel reforça que o "**Cruzeiro** não poderá
-    ter saliencias por causa das ruas estreitas, lateraes", revelando
-    que a ocupação do amplo espaço livre observado ao redor da
-    edificação até meados no século anterior, como se vê na *Planta da
-    Cidade de Goyaz* de 1867.
-
--   Conclui pedindo **urgência** na elaboração da planta das sacristias
-    e da parte superior ao altar-mor, pois "ficamos certos de começar
-    dalli a construcção. Já estamos enchendo os alicerces que ficarão
-    respaldados por todo este mez". Essa passagem indica que as obras,
-    de fato, começaram sem que o projeto estivesse sequer iniciado,
-    resultando em um grande desafio para o arquiteto futuramente,
-    sobretudo, no trabalho de conciliação dos serviços em andamento em
-    paralelo com a execução de seus desenhos, situação agravada pelos
-    constantes problemas encontrados na obra e pela falta de informação
-    resultante de sua impossibilidade de visitar o local.
-
-A nona ata da Comissão Central (8.jun.1929) faz registros diversos e
-menciona que "continuam os trabalhos de fundação, por terem sido
-demolidos os alicerces que eram insufficientes e defeituosos e as
-paredes respectivas desaprumadas", além de comentar sobre as
-dificuldades de transporte dos materiais de construção, em razão da
-precariedade das estradas.
-
-Gastão Bahiana encaminha nova e detalhada carta em 2 de julho de 1929,
-explicando o "esboço do projecto" proposto até aquele momento e
-declarando sua grande dificuldade em "fixar um programa definitivo".
-Isso se deve à ausência de informações básicas, sobretudo, quanto à
-posição dos alicerces ao redor da capela-mor, sem mencionar as más
-condições dos remanescentes da edificação existente, como paredes e
-fundações. Assim, opta por se limitar ao essencial, conforme se observa
-nos cinco pontos transcritos abaixo:
-
-> 1º Resolvida a creação da Cathedral de Goyaz, no local em que foi
-> iniciada a sua construcção, penso que o edificio não póde occupar area
-> maior do que a prevista na origem.
->
-> 2º Mesmo no caso de se demolir toda a alvenaria existente, inclusive
-> alicerces, convem projectar os muros da construcção nova [tanto quanto
-> possivel]{.underline}, na mesma posição actual, não só por respeito á
-> tradição, como para poder aproveitar qualquer elemento de reconhecida
-> solidez.
->
-> 3º As linhas architectonicas devem ser simples, afim de se poder
-> executar toda a construcção com operarios da localidade.
->
-> 4º O estylo deve obedecer, de preferencia, ao typo tradicional
-> brasileiro, derivado da architectura italiana do renascimento.
->
-> 5º Havendo urgência em executar primeiro a capella mór, o projecto
-> deve prever a possibilidade de realizar desde já esta parte de modo
-> completo e definitivo (*grifo duplo nosso*).
+> altura, em toda periferia do templo. [@silva:1948lugares, 238]
 
 Acerca do corpo principal do edifício, o arquiteto menciona que buscou
 não modificar as fundações existentes, com algumas exceções que visavam
@@ -422,7 +451,7 @@ laterais que "não são indispensaveis mas apenas convenientes, para
 movimentar as fachadas lateraes", abrindo dois vãos largos na capela-mor
 na parte integrada à nave principal com duas portas. Acrescenta que,
 "alem das pilastras indicadas juntas ás paredes lateraes e de fundo
-desta capella, previ\[u\] duas columnas isoladas V e X que dariam maior
+desta capella, previ[u] duas columnas isoladas V e X que dariam maior
 imponencia ao altar mór". Incluiu também outras duas capelas
 secundarias, com acesso por atrás dos altares, para "não deixar devassar
 a sacristia". Acrescenta, ainda, que a planta:
@@ -435,27 +464,7 @@ a sacristia". Acrescenta, ainda, que a planta:
 > 50 de altura livre) e as naves lateraes por forro plano, tambem de
 > madeira (pé direito 11^m^, 50).
 
-  -------------------------------------------------------------------------------------------------------------------------------------
-  ![Texto preto sobre fundo branco Descrição gerada                  ![Texto, Carta Descrição gerada
-  automaticamente](media/image12.png){width="3.2579035433070866in"   automaticamente](media/image13.png){width="2.8123851706036747in"
-  height="3.8976377952755907in"}                                     height="3.8976377952755907in"}
-  ------------------------------------------------------------------ ------------------------------------------------------------------
-
-  -------------------------------------------------------------------------------------------------------------------------------------
-
-+-----------------------------------+-----------------------------------+
-| Figura 12 - Croqui explicativo da | Figura 13 - Croqui explicativo da |
-| planta-baixa, extraído da carta   | planta-baixa, extraído da carta   |
-| de Gastão Bahiana de 2 de julho   | de Gastão Bahiana de 2 de julho   |
-| 1929 (apresentado na mesma        | 1929 (apresentado na mesma        |
-| orientação constante no documento | orientação constante no documento |
-| original).                        | original).                        |
-|                                   |                                   |
-| Fonte: Acervo de Dom Emmanuel     | Fonte: Acervo de Dom Emmanuel     |
-| Gomes de Oliveira (IPEHBC --      | Gomes de Oliveira (IPEHBC --      |
-| PUC-GO).                          | PUC-GO).                          |
-+===================================+===================================+
-+-----------------------------------+-----------------------------------+
+<Figuras>
 
 Quanto ao corte ou "secção" apresentada, esclarece que passa pela
 capela-mor e representa a "apparencia interna da egreja, tratado em
@@ -477,18 +486,7 @@ condição, caso houvesse recursos. Já em relação à cúpula informa que
 > Esta solução, muito mais simples e economica do que a cupola, será
 > entretanto de aspecto interno e externo menos imponente.
 
-+-----------------------------------------------------------------------+
-| ![Imagem em preto e branco de uma cerca Descrição gerada              |
-| automaticamente com confiança                                         |
-| média](media/image14.png){width="3.8188976377952755in"                |
-| height="4.273462379702537in"}                                         |
-+=======================================================================+
-| Figura 14 - Corte do projeto de Gastão Bahiana, indicando a           |
-| capela-mor da Catedral de Santana, 1929 (entretanto, ele não se       |
-| refere à versão mencionada na carta acima, talvez, a uma posterior).  |
-|                                                                       |
-| Fonte: COELHO, 2014, p. 66.                                           |
-+-----------------------------------------------------------------------+
+<Figuras>
 
 Acerca das torres, Bahiana afirma não ter podido ainda se aprofundar nos
 estudos, recomendado apenas que seus alicerces deveriam "descer até a
@@ -525,26 +523,6 @@ dos anexos, conforme segue:
 > por não me pareceu conveniente a segunda porta dando entrada directa
 > do exterior para a sacristia.
 
-O arquiteto conclui a correspondência se disponibilizando para a
-realização das modificações necessárias e insistindo no seguinte
-questionamento sobre os alicerces: "quaes as partes que vão até a rocha;
-quaes as partes inaproveitaveis e que deverão ser reconstruidas, até a
-rocha ou não; qual a natureza do terreno no caso de não se descer até a
-rocha". Reitera que seria desejável que "atinjam a rocha" em todos os
-lugares ou, ao menos, nos pontos mais carregados (pilastras, torres,
-etc.) para evitar recalques e fendas. Reconhece também a garantia de
-maior racionalidade pela opção pela matéria-prima local, porém "o uso de
-cimento e do ferro póde permittir a redução do volume das alvenarias em
-proporção que talvez compense o excesso de custo destes materiaes". Para
-uma economia ainda mais expressiva, informa sobre a possibilidade da
-especificação de novas paredes mais finas no caso da confirmação da
-demolição interna geral, inclusive nas torres, "de modo que as
-pilastras, internas e externas, previstas no esboço, possam se apoiar
-nos alicerces actuaes". Para tanto, pergunta qual seria as dimensões
-correntes dos tijolos produzidos na região, informando-lhe sobre a
-existência de amostras maiores do que a enviada a ele anteriormente, as
-quais mediam 0^m^,19 x 0,09 x 0,06.
-
 No pós-escrito, informa que anexou à correspondência uma planta e uma
 secção da catedral em duas vias, entretanto, esses desenhos não puderam
 ser encontrados, havendo apenas os croquis apresentados acima, que
@@ -554,7 +532,9 @@ documental e apresentados ao longo desta subseção, permitindo-se
 reconhecer que estes últimos se referem a uma fase posterior ao estágio
 da obra explicitado na carta.
 
-# Vicissitudes do projeto diante dos vestígios encontrados #
+# Processo construtivo #
+
+## Vicissitudes do projeto diante dos vestígios encontrados ##
 
 Em nova reunião ocorrida em 4 de julho do mesmo ano, D. Emmanuel já
 demonstra alguns sinais de desgaste ao mencionar que "é necessario
@@ -669,7 +649,7 @@ formal, como observado abaixo:
 | Fonte: Acervo do Gastão Bahiana, NPD-UFJR.                            |
 +-----------------------------------------------------------------------+
 
-# Restrições orçamentárias #
+## Restrições orçamentárias ##
 
 A ata de 22 de agosto da Comissão central registra o recebimento e
 apresentação do referido projeto por D. Emmanuel, mas sem maiores
@@ -1013,13 +993,6 @@ história da arquitetura brasileira.
 
 # Referências bibliográficas 
 
-BRITTO, Clovis Carvalho; ROSA, Rafael Lino. *Mestra e Guia*: A Catedral
-de Sant\'Ana e as devoções de Darcília Amorim. Goiânia: Editora Espaço
-Acadêmico, 2017.
-
-COELHO, Gustavo Neiva. *Guia dos bens imóveis tombados em Goiás*: Vila
-Boa, volume I. Goiânia, Instituto dos Arquitetos do Brasil, 1999.
-
 COELHO, Gustavo Neiva. *Arquitetura religiosa setecentista em Vila Boa*.
 Goiânia: Editora Vieira, 2014.
 
@@ -1031,18 +1004,8 @@ e o concreto armado no Brasil, 1920 a 1940*. 2011. Tese (Doutorado em
 História e Fundamentos da Arquitetura e do Urbanismo) - Faculdade de
 Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2011.
 
-SILVA, José Trindade da Fonseca e. *Lugares e pessoas* - Subsídios
-eclesiásticos para a história de Goiás. São Paulo: Escolas Profissionais
-Salesianas, 1948.
-
 [^1]: A elaboração do presente artigo foi financiada com recursos do
     programa PROAP da CAPES.
-
-[^2]: Os estudantes entraram em greve solicitando a permanência de Costa
-    no cargo e o afastamento de Bahiana, como relatam com mais detalhes
-    autores como a professora Gaia Piccarolo em seu livro *Architecture
-    as Civil Commitment: Lucio Costa\'s Modernist Project for Brazil*
-    (2016), entre outros.
 
 [^3]: Disponível em:
     <https://npd.fau.ufrj.br/index.php?cPath=100_10000>. Acesso em
@@ -1052,18 +1015,12 @@ Salesianas, 1948.
     que, "de certo, há razões para a longevidade dos ideais do
     classicismo na prática dos arquitetos na passagem do século 19 para
     o 20. Uma delas foi a vigência de uma relação íntima entre o
-    conceito de arquitetura e o uso da padra -- '*por excelência o
+    conceito de arquitetura e o uso da padra --- '*por excelência o
     material nobre'*. Romper com tal noção foi um processo complicado,
     gradual e diverso (BAHIANA, 1926, 168; COHEN, 2000, XI). Talvez por
     esta razão, a iniciativa pela nova concepção formal e espacial
     partiu dos engenheiros, que derivando da premissa das tecnologias
     construtivas alcançaram uma '*estética do engenheiro*'".
-
-[^5]: Registra-se que foram encontradas cinco correspondências trocadas
-    entre ambos de 1929 a 1934, além de cerca de cinco telegramas,
-    desenhos, fotografias e objetos, constando alguns deles nos acervos
-    de Dom Emmanuel Gomes de Oliveira e do Cônego Trindade Silva, que
-    estão depositados no IPEHBC -- PUC-GO.
 
 [^6]: Nota-se que o arquiteto se preocupa em conhecer o material
     original desses elementos, "de cantaria lavrada ou de material
